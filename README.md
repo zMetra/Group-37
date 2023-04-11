@@ -1,7 +1,7 @@
 # Group-37
 ## Team name
 - [Alon Leshem](mailto:all296@pitt.edu)
-- [Name](mailto:address@pitt.edu)
+- [Adam Gimbel](mailto:ajg172@pitt.edu)
 - [Name](mailto:address@pitt.edu)
 ## Description
 Description
