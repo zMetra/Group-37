@@ -1,0 +1,885 @@
+objectid,trail_id,trail_name,park_name_short,park_name,park_name_full,blaze_color_full,blaze_color_short,base_color,cap_color,dot_color,dash_color,image_link,mileage,track,track_num,difficulty,configuration,surface,service_road,globalid,trail_status,shape_length
+12352,RH2182, ,RH,Round Hill,Round Hill Park,,,,,,,,0.135136,,,,,,,{FFC72992-B0C0-4225-BFE0-9232BAE62B88},Active Trail,0.00210749284649902
+12359,RH6197, ,RH,Round Hill,Round Hill Park,,,,,,,,0.29494448,,,,,,,{AC0999D4-F29D-4353-B940-614AF3016A53},Active Trail,0.00487111239451738
+12390,HH15413, ,HH,Harrison Hills,Harrison Hills Park,<Null>,<Null>,,, , ,<Null>,0.45003527,,,Easy-Moderate,Point to Point,,,{F6FCABE7-368F-46FE-88C8-63CDE48136AF},Active,0.00745117935068305
+12426,HH16723,,HH,Harrison Hills,Harrison Hills Park,,,,,,,,0.06983055,,,Easy,Connector,Dirt,,{F7B539F6-5713-474F-90F0-5E120314E971},Closed,0.00103793483345384
+12427,HH16274,,HH,Harrison Hills,Harrison Hills Park,,,,,,,,0.15164568,,,Easy,Connector,Dirt,,{628DF2A0-907A-4D85-B971-B0A7EE5D48A6},Active,0.00247407452513457
+12494,HH4768, ,HH,Harrison Hills,Harrison Hills Park,<Null>,<Null>,, , , ,<Null>,0.19367761,,,Moderate,Connector,,,{305A6071-3E04-45D8-9A55-CFAF0FBF2252},Closed,0.00322046041504168
+12505,HH25185,,HH,Harrison Hills,Harrison Hills Park,,,,,,,,0.11419138,,,Easy-Moderate,Connector,Dirt,,{447607CF-4AD6-4852-8989-8F2A0D1D3C2B},Closed,0.00174514141073353
+12506,HH25186,Yellow,HH,Harrison Hills,Harrison Hills Park,Yellow,YL,Yellow,,,,http://apps.alleghenycounty.us/GIS/YELLOWbase.png,3.13139951,,,Moderate-Difficult,Point to Point,,,{94659EBC-6C57-41DB-8A8D-4CAD10D17F08},Active,0.0511403838611393
+12732,RH2183, ,RH,Round Hill,Round Hill Park,,,,,,,,0.66494047,,,,,,,{B6B236DB-A1CA-4183-85FB-70FD29ECD11C},Closed,0.011599468959031
+12734,RH2184, ,RH,Round Hill,Round Hill Park,,,,,,,,0.13605839,,,,,,,{59E579BA-D83C-4FB8-BEEB-2B9B99A5B495},Active Trail,0.00249648030263361
+12736,RH2185, ,RH,Round Hill,Round Hill Park,,,,,,,,0.06025169,,,,,,,{DBEFC4F0-B640-4625-99F5-F532D5F3BFA1},Active Trail,0.000994516066812171
+12737,RH2186, ,RH,Round Hill,Round Hill Park,,,,,,,,0.1260009,,,,,,,{A3DA60C4-5CBF-4814-9640-4CE31968BB8C},Active Trail,0.00195083283061861
+12739,RH2188, ,RH,Round Hill,Round Hill Park,,,,,,,,0.10687278,,,,,,,{197685C6-042A-4D95-9015-B5FCBB72D597},Active Trail,0.00200192046257171
+12740,RH2189, ,RH,Round Hill,Round Hill Park,,,,,,,,0.22273194,,,,,,,{FEAFE920-3B70-41DB-976E-AA95E053315E},Closed,0.00354586649367167
+12741,RH2190, ,RH,Round Hill,Round Hill Park,,,,,,,,0.13365186,,,,,,,{3AE97CEE-92A5-4B10-B278-4F6F71375DCC},Closed,0.0023961995910158
+12743,RH2191, ,RH,Round Hill,Round Hill Park,,,,,,,,0.08336032,,,,,,,{555F8513-6911-4BBC-99AC-13767E45215D},Closed,0.00154056531044022
+12744,RH2192, ,RH,Round Hill,Round Hill Park,,,,,,,,0.47023405,,,,,,,{C39E5B5D-BBD7-49F5-99F9-6ABB53CDD2C6},Closed,0.00834028318288888
+12746,RH2193, ,RH,Round Hill,Round Hill Park,,,,,,,,0.57695625,,,,,,,{68FA82D6-8C0C-4457-9532-055334C59201},Closed,0.0100440699311807
+12747,RH2194, ,RH,Round Hill,Round Hill Park,,,,,,,,0.19794134,,,,,,,{DC12DEA2-AC83-4D6D-B780-B48260371FA1},Closed,0.00331170031631039
+12748,RH2196, ,RH,Round Hill,Round Hill Park,,,,,,,,0.46907617,,,,,,,{6989F2E5-9B0F-43F3-B5B1-1B0119F54669},Active Trail,0.00809315124878926
+12749,RH2197, ,RH,Round Hill,Round Hill Park,,,,,,,,0.02826211,,,,,,,{D944D5BD-C8E1-41AF-A416-08BA42B91375},Closed,0.000521630393149469
+12750,RH2198, ,RH,Round Hill,Round Hill Park,,,,,,,,0.02464838,,,,,,,{E45EB849-35E7-4E02-B271-A9D4F7B02D99},Closed,0.00040218077127056
+12751,RH2199, ,RH,Round Hill,Round Hill Park,,,,,,,,0.78257657,,,,,,,{F160BE19-C930-4CE2-B6D3-FF6FE64062B8},Closed,0.0136241505198576
+12753,RH2200, ,RH,Round Hill,Round Hill Park,,,,,,,,0.1992804,,,,,,,{B646F328-5C18-4C7A-880B-4E5688F3F23D},Closed,0.00319546272941371
+12754,HH42063,Decommissioned Green,HH,Harrison Hills,Harrison Hills Park,<Null>,<Null>,,,,,<Null>,0.31878514,,,Moderate,Connector,Dirt,No,{07FA00B6-3FE8-4C15-B2D0-5B0FDEAC3C9C},Closed,0.00570921853298409
+12755,RH2201, ,RH,Round Hill,Round Hill Park,,,,,,,,0.05294678,,,,,,,{3D81B715-05AF-4C82-84A8-039C06FF8F79},Closed,0.000908356668662722
+12756,RH2202, ,RH,Round Hill,Round Hill Park,,,,,,,,0.00918453,,,,,,,{A78C38C3-2675-4AC8-A986-09522D4B0629},Closed,0.000138937413244179
+12757,RH2203, ,RH,Round Hill,Round Hill Park,,,,,,,,0.02749194,,,,,,,{E74086FD-4DAE-411E-BA5A-F10C94DB3673},Closed,0.000438278249386843
+12758,RH2204, ,RH,Round Hill,Round Hill Park,,,,,,,,0.03279435,,,,,,,{F9F2EFB0-37EC-4864-8020-2BC987BDF3ED},Closed,0.000551501918511978
+12759,RH2205, ,RH,Round Hill,Round Hill Park,,,,,,,,0.11407679,,,,,,,{4F1618FE-44B4-4EA7-96E2-6A29DAB05C95},Closed,0.0017422700132346
+12760,RH2206, ,RH,Round Hill,Round Hill Park,,,,,,,,0.01746932,,,,,,,{2625AF7B-C95A-4351-8A57-A52CE8DF345D},Closed,0.00025991961375862
+12761,RH2207, ,RH,Round Hill,Round Hill Park,,,,,,,,0.05408009,,,,,,,{444A5E27-A6C1-473F-A531-AB3743863FC6},Closed,0.000852768444905537
+12762,RH2208, ,RH,Round Hill,Round Hill Park,,,,,,,,0.02118063,,,,,,,{146C8528-AFFF-43A5-AE55-2097128858CE},Closed,0.000320017007323358
+12763,RH2209, ,RH,Round Hill,Round Hill Park,,,,,,,,0.15810347,,,,,,,{DADDE326-2A08-4EBF-A116-E32A50ED8BB3},Active Trail,0.0028040389890061
+12764,RH2210, ,RH,Round Hill,Round Hill Park,,,,,,,,0.07945526,,,,,,,{CB7A8A0C-5AB9-437E-8C80-24AFA415E029},Active Trail,0.0013083934073261
+12765,RH2211, ,RH,Round Hill,Round Hill Park,,,,,,,,0.61133289,,,,,,,{86CEBB79-7621-45A9-A345-8FEC3ABF508C},Active Trail,0.010516996547993
+12766,RH2212, ,RH,Round Hill,Round Hill Park,,,,,,,,0.38272346,,,,,,,{EF5169E5-07ED-41C7-9B6B-BDECA51151E8},Active Trail,0.0061326912330104
+12767,RH2213, ,RH,Round Hill,Round Hill Park,,,,,,,,0.40078943,,,,,,,{F1A0165E-D48E-4A04-B47B-C50310578E59},Active Trail,0.00659602618476935
+12768,RH2214, ,RH,Round Hill,Round Hill Park,,,,,,,,0.29415779,,,,,,,{C319DA33-8F73-4589-BB21-B1F6BD1E29EE},Closed,0.00495288378861378
+12769,RH2215, ,RH,Round Hill,Round Hill Park,,,,,,,,0.2829491,,,,,,,{AD6307E2-7DF4-4C86-8D94-AF66CF8489E2},Closed,0.00459760853970392
+12770,RH2216, ,RH,Round Hill,Round Hill Park,,,,,,,,0.27219434,,,,,,,{149D3403-0B29-4143-B3B1-9574E55B28FD},Closed,0.00454318149580171
+12771,RH2217, ,RH,Round Hill,Round Hill Park,,,,,,,,0.17824682,,,,,,,{E80D086B-CB00-41C8-B476-A2AA69EAE9F4},Closed,0.00327261202879621
+12772,RH2218, ,RH,Round Hill,Round Hill Park,,,,,,,,0.01066276,,,,,,,{80CBC052-C0EF-4285-B5D4-61700CD13C89},Closed,0.000167295976585321
+12773,RH2219, ,RH,Round Hill,Round Hill Park,,,,,,,,0.11871212,,,,,,,{A32D1B38-BD8E-4B38-8677-4CF71033EF0F},Closed,0.00201344634387319
+12774,RH2220, ,RH,Round Hill,Round Hill Park,,,,,,,,0.02910441,,,,,,,{4C1711F5-928B-484B-B961-F53D8C2A4FDC},Closed,0.000432384799044646
+12775,RH2221, ,RH,Round Hill,Round Hill Park,,,,,,,,0.25700538,,,,,,,{8D9EE370-26DB-465F-B654-278183498F6E},Closed,0.00395459181981922
+12776,RH2222, ,RH,Round Hill,Round Hill Park,,,,,,,,0.01780424,,,,,,,{7342DA39-46A5-4EC5-859B-2FFA9F674830},Closed,0.000289372853751119
+12777,RH2223, ,RH,Round Hill,Round Hill Park,,,,,,,,0.02205659,,,,,,,{695CC893-2990-4514-8671-213626B41261},Closed,0.000360246067710936
+12778,RH2224, ,RH,Round Hill,Round Hill Park,,,,,,,,0.09976144,,,,,,,{56A8E5DD-8FD2-4146-98A7-183AB886678F},Closed,0.00177168268625323
+12779,RH2225, ,RH,Round Hill,Round Hill Park,,,,,,,,0.06015286,,,,,,,{ED038769-4FAC-4490-A0D2-C6E12085F9CC},Closed,0.000914447575965113
+12780,RH2226, ,RH,Round Hill,Round Hill Park,,,,,,,,0.05222396,,,,,,,{2665A61B-F06B-4EE7-8F92-C8A1B9CFF11D},Closed,0.000778680875973679
+12781,RH2227, ,RH,Round Hill,Round Hill Park,,,,,,,,0.04963883,,,,,,,{A320AD3C-7E5F-4254-B08C-E32E2341E54F},Closed,0.000842217548870047
+12782,RH2228, ,RH,Round Hill,Round Hill Park,,,,,,,,0.12765922,,,,,,,{7E83F60F-BF58-4B23-ACCA-EEA06EBF6778},Closed,0.00206363569461814
+12783,RH2229, ,RH,Round Hill,Round Hill Park,,,,,,,,0.08957718,,,,,,,{B43ADE21-D1D2-4400-8DCE-71104A2AB36A},Closed,0.00156277217137338
+12864,RH2640, ,RH,Round Hill,Round Hill Park,,,,,,,,0.32845047,,,,,,,{117C64E6-F3A3-495B-9BFB-383A43D8E292},Active Trail,0.00528114949925054
+12865,RH2641, ,RH,Round Hill,Round Hill Park,,,,,,,,0.6222404,,,,,,,{1119EBAC-78F4-43BF-880E-8E3132A94BBE},Closed,0.0102858077968057
+12866,RH2642, ,RH,Round Hill,Round Hill Park,,,,,,,,0.27716441,,,,,,,{4741BFF7-EDE7-44BF-BF27-AF686D7DE4EC},Closed,0.00501288887247682
+12867,RH2643, ,RH,Round Hill,Round Hill Park,,,,,,,,0.44624606,,,,,,,{F3875A9D-58BC-4FEF-B451-34691211C845},Closed,0.00799783131559755
+12868,RH2644, ,RH,Round Hill,Round Hill Park,,,,,,,,0.14411171,,,,,,,{41260767-2709-4315-8FD8-9BF79794F75B},Closed,0.00230060577731097
+12869,RH2645, ,RH,Round Hill,Round Hill Park,,,,,,,,0.16533889,,,,,,,{7B5675A9-71C1-469F-AF38-4571D41EF8C5},Closed,0.00266529133069684
+12870,RH2646, ,RH,Round Hill,Round Hill Park,,,,,,,,0.30987726,,,,,,,{D507F678-9C6E-46AD-9168-2F370881CCEA},Closed,0.00527266102052165
+12871,RH2647, ,RH,Round Hill,Round Hill Park,,,,,,,,0.08534451,,,,,,,{5575D8E8-22F4-4845-B24E-6892F0EBFA4C},Closed,0.00132246864380048
+12872,RH2648, ,RH,Round Hill,Round Hill Park,,,,,,,,0.20239407,,,,,,,{AE9FEF47-EA30-4731-90BB-A9F51F9F3E6C},Closed,0.00308164775825682
+12873,RH2649, ,RH,Round Hill,Round Hill Park,,,,,,,,0.71654412,,,,,,,{3165A6F2-2193-470D-A0A0-E79935818868},Closed,0.0131240179229337
+12874,RH2650, ,RH,Round Hill,Round Hill Park,,,,,,,,0.39150645,,,,,,,{481C3A31-1D07-4B96-9672-FA35BA2FA576},Closed,0.00704805193337314
+12875,RH2651, ,RH,Round Hill,Round Hill Park,,,,,,,,0.27736699,,,,,,,{0A6C2767-DDE1-488D-B740-68B690ED415B},Closed,0.00503917344371233
+12876,RH2652, ,RH,Round Hill,Round Hill Park,,,,,,,,1.12712658,,,,,,,{D5F29958-4EEF-4B26-93D8-B15FBAD1B72A},Closed,0.0187944246936257
+13007,HH4755, ,HH,Harrison Hills,Harrison Hills Park,,,,,,,,0.04190102,,,,,,,{7C0F13AD-5A00-4B3A-8F8A-6D3967CB01E2},Active,0.000785397688059246
+13008,HH4757, ,HH,Harrison Hills,Harrison Hills Park,,,,,,,,0.04319621,,,,,,,{C8AE4E89-CD9F-4D7B-9207-783C2F678AA5},Closed,0.000790031489158289
+13009,HH4759, ,HH,Harrison Hills,Harrison Hills Park,,,,,,,,0.14931159,,,,,,,{B258DC6A-45C7-40B5-8D11-99358E0C2244},Active,0.00276922398138512
+13010,HH4763, ,HH,Harrison Hills,Harrison Hills Park,,,,,,,,0.19932495,,,,,,,{08FF06C6-6DEE-4BC4-A861-1BD30AAB624C},Active,0.00343257496198515
+13011,HH13022,Green,HH,Harrison Hills,Harrison Hills Park,Green,GN,Green,,,,http://apps.alleghenycounty.us/GIS/GREENbase.png,1.9678255,,,Moderate,Loop,Dirt,No,{B929A48D-D220-49F7-9A65-154C612076E1},Active,0.0330649186557806
+13012,HH4765,Purple,HH,Harrison Hills,Harrison Hills Park,Purple,PL,Purple, , , ,http://apps.alleghenycounty.us/GIS/PURPLEbase.png,1.23581911,,,Easy-Moderate,Loop,,,{E42E9F84-1DAF-49DF-9165-4794E34DC0B1},Active,0.0215189707803373
+13013,HH4766,White,HH,Harrison Hills,Harrison Hills Park,White,WT,White, , , ,http://apps.alleghenycounty.us/GIS/WHITEbase.png,1.27816314,,,Easy-Moderate,Loop,,,{D7F5DBA6-9E05-4F5C-B795-B84AB4A88CF6},Active,0.0219802022870788
+13014,HH4767,Blue,HH,Harrison Hills,Harrison Hills Park,Blue,BL,Blue, , , ,http://apps.alleghenycounty.us/GIS/BLUEbase.png,0.63353647,,,Easy,Loop,,,{CF8FDC6E-7ABD-45EE-B596-3D8610A4D2E4},Active,0.0105887139054923
+13015,HH13026, ,HH,Harrison Hills,Harrison Hills Park,<Null>,<Null>,, , ,,<Null>,0.4302681,,,Easy-Moderate,Connector,,,{EDE6C38B-5061-4977-9D7C-8A45771318DC},Closed,0.00674601041799526
+13016,HH4770,Gravel or Paved Trail/Road,HH,Harrison Hills,Harrison Hills Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.33843602,,,Easy,Paved Loop,Asphalt,No,{38BF6548-9A0F-46B1-9F95-1E2F30782F1C},Active,0.00550737341312474
+13017,HH4772, ,HH,Harrison Hills,Harrison Hills Park,,,,,,,,0.05674948,,,Easy,Access,,,{C7DC5AB3-8449-4821-8CA5-C378E26E734B},Active,0.000859469574004395
+13018,HH4773,Gravel or Paved Trail/Road,HH,Harrison Hills,Harrison Hills Park,Gravel or Paved Trail/Road,GY,Gray,,,,http://apps.alleghenycounty.us/GIS/GRAY.png,0.37568,,,Easy,Point to Point,Asphalt,Yes,{A170CB4B-CEA7-430B-9C46-3CD91D720CDC},Active,0.00573303509752586
+13019,HH4775, ,HH,Harrison Hills,Harrison Hills Park,<Null>,<Null>,, , , ,<Null>,0.31972589,,,Moderate,Point to Point,,,{9C2E260F-8B97-4361-90A4-823C0EC9FC7E},Closed,0.0051381418899991
+13138,HH42066,Decommissioned Red,HH,Harrison Hills,Harrison Hills Park,<Null>,<Null>,,,,,<Null>,0.0551606,,,,,,,{77232604-A8E6-4859-BF43-D4672BB9F247},Closed,0.000908059994717592
+13148,HH42503,Intra Park Connector,HH,Harrison Hills,Harrison Hills Park,,,,,,,,0.02943048,,,Easy-Moderate,Connector,Dirt,No,{24476E04-F808-4B9D-BEE4-A8989790D15F},Active,0.000539419200371372
+13152,HH45251,Yakaon Shelter - Red Trail Access,HH,Harrison Hills,Harrison Hills Park,,,,,,,,0.33228998,,,Moderate,Access,,No,{EE9A78C8-E8AF-4EFF-987C-CE690FCE06A6},Active,0.0055673522041222
+13161,HH42936, ,HH,Harrison Hills,Harrison Hills Park,<Null>,<Null>,,,,,<Null>,0.65672626,,,,,Dirt,,{28B8B3E4-3E8F-40A0-B2A9-8B47D252C6D2},Active,0.0110111170756348
+13162,HH4769, ,HH,Harrison Hills,Harrison Hills Park,<Null>,<Null>,,,,,<Null>,0.09661919,,,Easy,Connector,Dirt,No,{1DEA44CA-55A2-4023-ADAA-309B6EFDF011},Active,0.00144278556163561
+13163,HH42941,Red,HH,Harrison Hills,Harrison Hills Park,Red,RD,Red,,,,http://apps.alleghenycounty.us/GIS/REDbase.png,5.34709529,,,Difficult,Loop,Dirt,,{E16EB87E-7915-4E11-9659-905309EACDF1},Active,0.0890151962365085
+13164,HH42944,,HH,Harrison Hills,Harrison Hills Park,,,,,,,,0.0370232,,,Easy,Access,Grass,,{711030C1-9358-4B10-8BEC-084E40085BD8},Active,0.000598007511201533
+13165,HH42945,,HH,Harrison Hills,Harrison Hills Park,,,,,,,,0.19573759,,,Easy-Moderate,,Grass,,{33EEA6B3-5899-476F-98C9-ECEBF7F49DB1},Active,0.00335709272855124
+13204,SC4781, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.16492437,,,,,,,{AE2A55E9-7F17-49AD-A466-B74C57291B71},Active,0.00269597260142554
+13205,SC4813,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.00574511,,,,,,,{C5DA0CED-324D-4090-9D86-3431F8AD56FB},Closed,9.28162918063478e-05
+13206,SC4815, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.0345952,,,,,,,{45066A2F-B016-40A3-877A-654053CDDFBA},Active,0.000524931404558079
+13207,SC4817, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.0886406,,,Easy,,Dirt,,{AEEFE9B8-71B3-4DE6-A4E7-BD31579940CF},Active,0.00158479991168232
+13208,SC4818, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.09666262,,,,,,,{5D18FAA7-C2D4-4F24-AB0B-894E89F3FA6E},Active,0.00160237485602824
+13209,SC4820, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.01977013,,,,,,,{711B545C-C5BA-4F7F-BA19-65DAFB6F2A24},Closed,0.000358480861233393
+13210,SC4822,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.25428399,,,,,,,{999432D1-AFB8-4195-9572-270DB403ECF4},Closed,0.00413658230348307
+13211,SC4823,Old Red Free Ride - Still Visible - Delete?,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.03538262,,,,,,,{CD580185-966B-40FA-9197-94E91B2F589B},Closed,0.000559407614923926
+13212,SC4824, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.02349122,,,,,,,{3871AE5E-7613-4973-8886-237045DF5B6D},Active,0.000357956790077869
+13213,SC4825, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.03621281,,,,,,,{4DEBF643-C789-412B-BCDE-177D770C2F25},Closed,0.000586210237627846
+13214,SC4829, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.01870597,,,,,,,{50FD046A-0D29-4654-A1F2-2340F886DF6D},Active,0.000294220207116706
+13215,SC4851, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.0129572,,,,,,,{6CFD25C6-1401-4E60-9766-885647E2C373},Active,0.000232841025215196
+13216,SC4894, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.06139299,,,,,,,{5B1D8E3F-3359-412A-85EE-EA4F504010F1},Closed,0.0011299759251574
+13217,SC4903,Gravel or Paved Trail/Road,SC,Settlers Cabin,Settlers Cabin Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.67120671,,,Moderate-Difficult,Pt_to_Pt,Asphalt,No,{BF434E09-76BB-4193-BDDA-7CB0E555DF89},Active,0.0101715701978203
+13348,SC4836, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.04085468,,,,,,,{D7A33BE1-AE3F-4359-9717-E298DBF25562},Closed,0.000623247948394706
+13349,SC8177,Blue,SC,Settlers Cabin,Settlers Cabin Park,Blue,BL,Blue,,,,http://apps.alleghenycounty.us/GIS/BLUEbase.png,1.84695193,,,Easy-Moderate,Loop,,,{F0ECE99C-C494-4491-AE74-C2D521514222},Active Trail,0.029556876699734
+13350,SC13239,Red,SC,Settlers Cabin,Settlers Cabin Park,Red,RD,Red,,,,http://apps.alleghenycounty.us/GIS/REDbase.png,0.25660343,,,Easy-Moderate,Access,Dirt,,{87A33650-8C6E-4D9B-8B52-0B5F62798A1F},Active,0.00455481804780647
+13351,SC4831, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.08203995,,,,,,,{B696B5F0-D677-4AB3-9CAB-FA407A90AB1E},Active,0.00129293400066663
+13352,SC343,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.17683684,,,,,,,{95BC6624-567D-40E2-975E-0D75E4F7A1BF},Closed,0.0027607222783978
+13353,SC344,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.07408893,,,,,,,{036E0593-DEEF-4919-8D4E-8F131834BEF3},Closed,0.00132689620605707
+13354,SC345,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.05545381,,,,,,,{0A3787A1-8A51-4976-BB82-89861DFB3960},Closed,0.000817238419946208
+13355,SC346,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.04681038,,,,,,,{09BD9891-85F8-43E0-8016-293E40E575D9},Closed,0.000750432048171627
+13356,SC349,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.3025609,,,,,,,{BED1E131-EBCC-4B00-A5E1-F033984D2CB5},Closed,0.00552412984926797
+13357,SC350,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.13187315,,,,,,,{42494A31-5522-49E6-956A-1EC90A1DAA4C},Closed,0.00239064824869464
+13358,SC351,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.10206829,,,,,,,{AB36A78F-F9B0-43A9-9962-FE483956BF86},Closed,0.00189944990027843
+13359,SC352,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.30074763,,,,,,,{8737ED8E-0891-41DC-85DA-6319AF83DEAD},Closed,0.00530487061324444
+13360,SC353,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.05906343,,,,,,,{4182D4E7-DB4F-4A6F-9042-A45D8739EFCE},Closed,0.000877889026580909
+13361,SC354,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.2592668,,,,,,,{66E45A9E-A68B-456F-B325-D3E7DF1F04A3},Closed,0.0040949485453216
+13362,SC355,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.15869682,,,,,,,{0FC89591-46D6-4A0A-AC00-72E6595C8A36},Closed,0.0028795958927949
+13363,SC356,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.06460538,,,,,,,{1BF64CE9-2597-41E2-9F81-F1B86008B1B0},Closed,0.00107759079049157
+13364,SC360,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.0327344,,,,,,,{10754420-02CC-473C-8AC0-72B4E1D9C9A1},Closed,0.000585234969915869
+13365,SC361,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.1384248,,,,,,,{A4A77F99-12B3-453F-91F2-561F04429072},Closed,0.00233256446822249
+13366,SC362,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.0128913,,,,,,,{E927361B-D33F-41B6-92B0-27CF620026B7},Closed,0.000238212737567398
+13367,SC363,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.02311617,,,,,,,{21C993DD-11D8-4139-96FD-8F16711F01E4},Closed,0.000343180096359048
+13368,SC364,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.04247562,,,,,,,{91F99695-4AA6-4EC7-B2D8-F850F4E41E94},Closed,0.000770796340047499
+13369,SC366, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.03280317,,,,,,,{C23DFB08-FA27-4ACD-9A90-5E3795F979F6},Closed,0.000576202186340078
+13370,SC459,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.05415622,,,,,,,{BF356E12-0F90-4887-8F4D-EB4DBCCA141A},Closed,0.000853104441151227
+13371,SC662,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.09451656,,,,,,,{6361D0A0-765C-40B6-8D5A-C2EB66BD4128},Closed,0.00155540152384521
+13372,SC663,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.18295811,,,,,,,{28D4AA53-6249-44D3-8BE7-4CE3F3F61B58},Closed,0.00305473195524894
+13373,SC664, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.01756329,,,,,,,{333F5EF1-37A8-43A9-BB6F-9DAB20E9A74B},Closed,0.000263583687222547
+13374,SC665,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.30055219,,,,,,,{D878E8AC-E249-4C75-94D1-B7E5D87E1215},Closed,0.00544567787929548
+13375,SC15837,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.51887842,,,,,,,{AF9A3C64-076F-461F-B09B-E00179A6DEE0},Closed,0.00962528202563262
+13376,SC667,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.89304149,,,,,,,{06922073-4BF1-4080-BF00-4AA6A38EC8BF},Closed,0.0148241658382157
+13377,SC668,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.5337299,,,,,,,{71DF5305-01A5-4DE8-B8DF-1526562A01B2},Closed,0.00870457393569131
+13378,SC669,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.03972989,,,,,,,{D267782D-B340-46FC-AE80-B724AB780009},Closed,0.000701398452876831
+13379,SC670,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.30075429,,,,,,,{5A9C0261-46B9-4406-96A2-BDFD967C6C91},Closed,0.00543438844498355
+13380,SC672,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.11378999,,,,,,,{F1C82A39-AC24-4571-8B94-4A858C7039F6},Closed,0.0016810353411896
+13381,SC673,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.16250331,,,,,,,{326781A4-701D-4044-9EDA-9E9CA49364E0},Closed,0.00286853772763894
+13382,SC674,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.02787861,,,,,,,{7220245F-86E7-4829-B084-0BE3CBF0E704},Closed,0.000443034025554327
+13383,SC15845,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.7523234,,,,,,,{3C6073E5-BE7D-44E7-864C-227AEECF5F08},Closed,0.0123116168804822
+13384,SC15846,,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.02905782,,,,,,,{41B1EE3D-8A8B-4256-9EC9-5A9AFF22334C},Closed,0.000434883511894524
+13385,SC15847,Decommissioned Trail,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.85819222,,,,,,,{A295CC93-4CE8-4314-BD13-1A1D6B21D1AE},Closed,0.0131919043209655
+13386,SC15848, ,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.04483969,,,,,,,{67730178-316B-4994-A041-19595BB98526},Closed,0.000776403264541176
+13387,SC13274,,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.02562434,,,Moderate,Connector,Dirt,,{DB48CE60-3B6E-40EC-B68C-0BDE4BFC8F15},Active,0.00041119697358913
+13388,SC8009,Green with White Dot - CLOSED,SC,Settlers Cabin,Settlers Cabin Park,,,, ,, ,,0.24990272,,,Easy,Pt_to_Pt,Dirt,,{A741DB35-DA91-4B28-B2B8-A7C4E8B9297C},Closed,0.00396320435678202
+13389,SC20334,Waterfall Trail,SC,Settlers Cabin,Settlers Cabin Park,Green,GN,Green,,,,http://apps.alleghenycounty.us/GIS/GREENbase.png,0.44243467,,,Moderate,Access,Dirt,,{DEC0754D-1B01-439A-8D5C-92CCFBCD8B67},Active Trail,0.00729207262550946
+13390,SC20336,,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.00735879,,,Easy-Moderate,Connector,Dirt,,{5088EF70-47DB-49D5-9DFB-C0E65355A147},Active,0.000138567474141342
+13391,SC21544,Purple - Deblazed,SC,Settlers Cabin,Settlers Cabin Park,<Null>,<Null>,, , , ,<Null>,0.78889837,,,Moderate,Pt_to_Pt,Dirt,,{CDC14DA3-5A1D-44B6-A740-84C50238CB16},Active,0.0128488623981737
+13520,SC8008,Yellow,SC,Settlers Cabin,Settlers Cabin Park,Yellow,YL,Yellow, , , ,http://apps.alleghenycounty.us/GIS/YELLOWbase.png,1.52433274,,,Easy-Moderate,Loop,Dirt,,{083D33E5-4611-4863-87A6-21347C0A62F0},Active,0.0246533353857584
+13526,SC30392,,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.03598444,,,Easy,Connector,Dirt,,{F0C4BB93-A48A-4716-B638-EF97DF4E11A4},Active,0.000590187899049082
+13527,SC30409,Red,SC,Settlers Cabin,Settlers Cabin Park,Red,RD,Red,,,,http://apps.alleghenycounty.us/GIS/REDbase.png,6.60468818,,,Moderate,Loop,Dirt,No,{C3D6DBE3-B4B2-4FFC-93B9-2306E0EF1269},Active,0.106942823982123
+13570,SC44960,Old Red (De-Blazed),SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.59267402,,,Easy,Connector,Dirt,No,{962687A1-393C-4A8B-883B-2CAF280B5C45},Closed,0.0096730005100401
+13571,SC44964,Old Red  (De-Blazed May/June) 2022,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.24638874,,,Easy,Connector,Dirt,No,{30AE04B4-FEF1-49B1-894D-B66B82256E0C},Active,0.00370800606701867
+13572,SC44965,Old Red  (De-Blazed & Closed May/June) 2022,SC,Settlers Cabin,Settlers Cabin Park,,,,,,,,0.23202841,,,Moderate,Connector,Dirt,No,{955DC51A-6524-4A76-A35D-0A9E8AD01A2B},Closed,0.00383414642142245
+13576,SC45377,"Old Red - Visible, Clear, Closed July 2022",SC,Settlers Cabin,Settlers Cabin Park, , ,,,,, ,0.44288781,,,Easy-Moderate,,,No,{4E1CABA3-F2E2-43B1-855A-4AB5D3494D94},Closed,0.00709124891214349
+13578,SC45387,Green,SC,Settlers Cabin,Settlers Cabin Park,Green,GN,Green,,,,http://apps.alleghenycounty.us/GIS/GREENbase.png,1.3028721,,,Moderate-Difficult,Loop,Dirt,No,{97571FAE-B957-4BFB-B45D-6F5108BD630E},Active,0.0209003959440022
+13579,SC45388,"Old Green-Visible, Mostly Clear-Repaced July,2022",SC,Settlers Cabin,Settlers Cabin Park, , ,,,,, ,0.04605686,,,Moderate,,,,{4FBBCE39-45EB-42FF-BE5F-295847E4E5BD},Closed,0.000858699145261459
+13580,SC45392," Old Green - Closed July, 2022",SC,Settlers Cabin,Settlers Cabin Park, , ,,,,, ,0.04240031,,,Moderate-Difficult,,,No,{F66A5E1B-ADAD-49FF-96D6-0A9E965BF3DE},Closed,0.000755967937702346
+13740,WO2297, ,WO,White Oak,White Oak Park,,,,,,,,0.38242957,,,,,,,{B0CA4222-2352-49FA-BD1C-57EA355BBB8D},Closed,0.00640210133192604
+13741,WO2298, ,WO,White Oak,White Oak Park,,,,,,,,0.03888161,,,,,,,{E0DE7472-6196-425E-A2AA-859D516DDA91},Closed,0.00059442455275386
+13742,WO2299,Decommissioned Streamside Trail,WO,White Oak,White Oak Park,,,,,,,,0.45425839,,,,,,,{F4258941-038F-42B2-AE53-A9DEFE7A3044},Closed,0.00813607947014378
+13743,WO2300,Decommissioned Trail,WO,White Oak,White Oak Park,,,,,,,,0.21977196,,,,,,,{617BC339-6E6B-48B4-9E45-B1AB0C82C986},Closed,0.00377890379029838
+13744,WO2301,Decommissioned Trail,WO,White Oak,White Oak Park,,,,,,,,0.2000449,,,,,,,{1AA9F45F-0D67-4D4B-9E0E-DADB9C8DF41C},Closed,0.00330391684031741
+13745,WO2302,Decommissioned Trail,WO,White Oak,White Oak Park,,,,,,,,0.02330254,,,,,,,{90196B61-D857-44A8-A34A-8A0B675D794F},Closed,0.000384214269228711
+13746,WO2303, ,WO,White Oak,White Oak Park,,,,,,,,0.01558539,,,,,,,{3496A3F7-84D0-4E27-8101-5D577807B10A},Closed,0.000244220094015209
+13747,WO2304,Decommissioned Trail,WO,White Oak,White Oak Park,,,,,,,,0.13960159,,,,,,,{C255F676-9784-42F5-B932-3AA13B14BCEE},Closed,0.00242495645100984
+13748,WO12677, ,WO,White Oak,White Oak Park,,,,,,,,0.00975618,,,,,,,{1D13F3F6-A44B-478B-9941-6084BAE4C383},Closed,0.000182578850047953
+13749,WO12678, ,WO,White Oak,White Oak Park,,,,,,,,0.36533514,,,,Access,Dirt,No,{CBD02707-C3E8-40FA-9D7D-9DB377C1C78A},Active Trail,0.0063957755412108
+13750,WO12679, ,WO,White Oak,White Oak Park,,,,,,,,0.18855546,,,,,,,{339401B6-EF66-42EC-9743-8B6F20E01419},Active Trail,0.00346257727080912
+13751,WO2323,Blue Trail,WO,White Oak,White Oak Park,Blue,BL,Blue,,,,http://apps.alleghenycounty.us/GIS/BLUEbase.png,1.32349496,,,Easy-Moderate,Loop,Dirt,No,{2BAB4BDF-078F-4EEB-8393-59FC6F9802C0},Active,0.0221033294747854
+13752,WO2325,Decommissioned Trail,WO,White Oak,White Oak Park,,,,,,,,0.26081031,,,,,,,{720468E5-580D-4141-97AA-A81AAAC5681C},Closed,0.00438847806718617
+13753,WO2595, ,WO,White Oak,White Oak Park,,,,,,,,0.40054574,,,,,,,{40B12C58-849B-4903-9827-306901CAA954},Closed,0.0065893407565756
+13754,WO2596, ,WO,White Oak,White Oak Park,,,,,,,,0.02772324,,,,,,,{46B57A14-B9B8-40DC-AF8B-A7069E15453B},Active Trail,0.000504885470529291
+13755,WO2597, ,WO,White Oak,White Oak Park,,,,,,,,0.16127725,,,,,,,{11A2C5C5-755F-4E1D-BC0A-6F6DA5F8EF61},Active Trail,0.00255807259075235
+13756,WO12803, ,WO,White Oak,White Oak Park,,,,,,,,0.11952523,,,Easy,Connector,Dirt,No,{1538A9C8-6E6B-4F89-9FDC-2F35AA910C01},Active Trail,0.00206526589695654
+13757,WO12804,Red,WO,White Oak,White Oak Park,Red,RD,Red,,,,http://apps.alleghenycounty.us/GIS/REDbase.png,1.06900938,,,Moderate-Difficult,Loop,Dirt,No,{FC4E6F8F-777D-4604-BE7F-E8FE92708861},Active Trail,0.0184153663161094
+13758,WO23966, ,WO,White Oak,White Oak Park,<Null>,<Null>,, , , ,<Null>,0.0474301,,,Moderate,Pt_to_Pt,,,{24D0FFAD-D2FE-46D0-836C-982A959E4EB9},Active,0.00083982295000256
+13759,WO23967, ,WO,White Oak,White Oak Park,<Null>,<Null>,, , , ,,0.10312116,,,Moderate,Pt_to_Pt,,,{244A3622-632F-43A7-A730-241CA9FA9856},Active,0.00166237082740556
+13760,WO23968, ,WO,White Oak,White Oak Park,<Null>,<Null>,, , , ,<Null>,0.06120291,,,Moderate,Pt_to_Pt,,,{68206CB1-FAB7-457D-9E16-0CE6D53B15EF},Active Trail,0.000958490611562976
+13761,WO35241,Decommissioned Trail,WO,White Oak,White Oak Park,,,,,,,,0.04119441,,,Easy,Connector,Wood,No,{CD5B46F0-D521-4E16-8DC1-A48000B802AD},Closed,0.00066199655983904
+13762,WO35242,Decommissioned Trail,WO,White Oak,White Oak Park,,,,,,,,0.0420921,,,Easy,Connector,Dirt,No,{6F02EF96-E6CA-4A16-8956-717918477F4D},Closed,0.000646626459006092
+13763,WO35254,,WO,White Oak,White Oak Park,,,,,,,,0.02042634,,,Easy,Connector,Dirt,,{D1877991-E162-4CBA-91F2-EBBE2B665556},Active,0.000306393812591706
+13764,WO35640,,WO,White Oak,White Oak Park,,,,,,,,0.06854806,,,Easy-Moderate,Connector,Dirt,No,{5141C747-E959-47B4-80E9-2D342D3AC47E},Closed,0.00115245616324839
+13765,WO35641, ,WO,White Oak,White Oak Park,,,,,,,,0.06347858,,,Easy-Moderate,Connector,Dirt,,{6BFF53B6-50F7-488E-B3E1-1B5651FCDEB1},Active Trail,0.000937416441341371
+13766,WO35647,,WO,White Oak,White Oak Park,,,,,,,,0.02095545,,,Easy,Connector,Dirt,No,{FD6A144F-F084-4BEE-9DB3-F592DDE9D939},Active,0.000351938705932413
+13767,WO2666, ,WO,White Oak,White Oak Park,,,,,,,,0.10041465,,,,,,,{C3B62157-95D6-4993-9A46-2368D9720079},Closed,0.00180914277093841
+13768,WO2315, ,WO,White Oak,White Oak Park,,,,,,,,0.10262871,,,,,,,{7D1FD82F-28B8-4AD1-BC9D-63A3AB960A5A},Active Trail,0.00165953098439921
+13769,WO40456,Orange Trail,WO,White Oak,White Oak Park,Orange,OR,Orange,,,,http://apps.alleghenycounty.us/GIS/ORANGEbase.png,2.94522233,,,Moderate,Loop,Dirt,No,{BFACD3B3-6B41-41FB-929C-26A19E9F2C3C},Active,0.0491022946509
+13770,WO2321, ,WO,White Oak,White Oak Park,,,,,,,,0.02419981,,,,,,,{1BABD617-A878-4FA0-B958-A1807DFCA1DB},Active Trail,0.000406261475241178
+13771,WO40459, ,WO,White Oak,White Oak Park,,,,,,,,0.1942663,,,,Access,Dirt,No,{623A6924-0D4A-413F-B78C-261702505B6E},Active Trail,0.0029650803657706
+13772,WO42930,White,WO,White Oak,White Oak Park,White,WT,White,,,,http://apps.alleghenycounty.us/GIS/WHITEbase.png,0.61354797,,,Moderate,Point to Point,Dirt,No,{1201BC2F-86BA-4C1D-8231-CC32C7BE80FF},Active,0.0101073265693464
+13773,WO42946,,WO,White Oak,White Oak Park,,,,,,,,0.44782516,,,,Connector,Grass,,{BD9DF0D0-BEBA-42AA-88D4-59399DD94315},Active,0.00775774321110882
+13774,WO43354,,WO,White Oak,White Oak Park,,,,,,,,0.23474458,,,,Connector,Grass,No,{31D0EEC4-FF0E-4407-BC40-8985A0D0A73B},Active,0.00426673170616787
+13775,WO43356,,WO,White Oak,White Oak Park,,,,,,,,0.18776226,,,,Connector,Grass,No,{C6A3E5A2-CB56-47C0-B18C-09D98DCC1676},Active,0.00349942765032477
+13776,WO43357,,WO,White Oak,White Oak Park,,,,,,,,0.20309218,,,,Connector,Grass,No,{3D7425DF-7673-4671-9D50-E6917ADF6468},Active,0.00378531600115814
+13777,WO45405,Yellow,WO,White Oak,White Oak Park,Yellow,YL,Yellow,,,,http://apps.alleghenycounty.us/GIS/YELLOWbase.png,1.56908076,,,Moderate-Difficult,Loop,Dirt,No,{20FF52E0-B7BB-46C7-A12B-CFE802DA823B},Active,0.0268136230435004
+13778,WO45414, ,WO,White Oak,White Oak Park,,,,,,,,0.00475735,,,Easy,Connector,Dirt,No,{490CCBA2-6A4D-469F-8C9F-3B91ACF6AB5A},Active,8.87796587171654e-05
+13779,WO45416, ,WO,White Oak,White Oak Park,,,,,,,,0.01366037,,,Easy-Moderate,Connector,Dirt,No,{DE2C2DEE-4556-4803-A3FD-885753A2347C},Closed,0.000246416665618643
+13780,WO45418,Green,WO,White Oak,White Oak Park,Green,GN,Green,,,,http://apps.alleghenycounty.us/GIS/GREENbase.png,2.99917811,,,Moderate,Loop,Dirt,No,{475681DB-334B-439D-A7E9-C1E07DE5DAC5},Active,0.0498416627763889
+13781,WO42932,,WO,White Oak,White Oak Park, ,,,,,,,0.24923734,,,Easy,Connector,Dirt,No,{0ACFEDDC-E9DA-469C-B998-04A7B278A6ED},Active,0.00415394391876607
+13782,WO45421,Blue Loop Access,WO,White Oak,White Oak Park,Blue,BL,Blue,,,,http://apps.alleghenycounty.us/GIS/BLUEbase.png,0.02937459,,,Easy-Moderate,Access,Grass,,{203AC5BB-8946-416B-A763-7973E4ED949F},Active,0.000505422463288221
+13783,HA2156, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.14992621,,,,,,,{DDD8C73A-4F75-4A63-AF39-9CBA803D961F},Active Trail,0.00229094953559407
+13784,HA2158, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.03850387,,,,,,,{20EB65FD-4DA4-4B90-B540-E6732B22924E},Active Trail,0.000677458929171602
+13785,HA17665, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.16873588,,,,,,,{E5F973B5-DE05-4A8D-8792-A2C6804CCC27},Active Trail,0.00289159780096552
+13786,HA2160, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.02781114,,,,,,,{6EDCB8D2-C17C-4AF1-BB6B-B1E73669C773},Active Trail,0.000518326021905579
+13787,HA17667, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.12469148,,,Easy-Moderate,,Dirt,No,{8027E028-6ADE-4E99-B894-81CF33E6D7AF},Active,0.00198845931119483
+13788,HA2162, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.12024778,,,,,,,{64AC305D-ECA2-4B0A-ACD7-AC9FFC41B118},Active Trail,0.00211785296130541
+13789,HA2163, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.08064519,,,,,,,{2D080754-91E9-44DA-AF37-ADBDC123E827},Active Trail,0.00126193305586941
+13790,HA2164, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.20016377,,,,,,,{5DF7AC36-7EA0-4ACD-A978-7A62B9970671},Active Trail,0.00326403684562179
+13791,HA2165, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.14679277,,,,,,,{24E42128-3772-4CB3-90F0-72D520A84335},Active Trail,0.0022579822306028
+13792,HA2166, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.02324821,,,,,,,{EE7299CA-E0FC-472C-959E-8F9966508EAB},Active Trail,0.000339288416707405
+13793,HA2168, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.04741422,,,,,,,{B76DB2FB-E100-4EC4-91F9-60E53A0B3D23},Active Trail,0.000724261194446038
+13794,HA2170, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.03904114,,,,,,,{36106CF4-366A-46D0-BEF7-E7EBEBE1C571},Active Trail,0.000675724817591669
+13795,HA2171, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.12353734,,,,,,,{D46A432F-229F-47DA-9E24-EF4DE3718269},Active Trail,0.0022695048682296
+13796,HA2177, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.19620966,,,,,,,{194905D4-707C-4AA0-8993-ECF58AE62CC6},Active Trail,0.00312312417605598
+13797,HA2178, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.06385541,,,,,,,{28F59215-865E-4F35-8431-12C10A9A8B53},Active Trail,0.000958006271344485
+13798,HA2179, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.07322276,,,,,,,{29B1E80E-7B19-4968-A97A-69FDCC554BA9},Active Trail,0.00108023832606578
+13799,HA2520, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.07667833,,,,,,,{4D52EC9C-7041-4898-9B3E-A755D5685406},Active Trail,0.0011677146768755
+13800,HA2607, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.07848547,,,,,,,{316A2695-4EDB-4E50-8FDA-118334C8FDBB},Active Trail,0.00130959578178715
+13801,HA227, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.07026469,,,,,,,{ED9EB66A-AD29-44D6-AB42-4E56DACBF09C},Closed,0.00119475563623659
+13802,HA2631, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.05198417,,,,,,,{37965EA9-6957-4D7E-A448-DE365C501623},Active Trail,0.000792926873029911
+13803,HA2634, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.09303868,,,,,,,{E76EE45B-DFB8-48F4-9887-6728B9949FD8},Active Trail,0.00136358626662766
+13804,HA2635, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.08712768,,,,,,,{846BAC3C-42D0-4FE7-8CFC-6F598A447935},Active Trail,0.0016543838478279
+13805,HA2636, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.11775892,,,,,,,{3E0CD9BF-BA83-4F0F-92CC-B8FCD6AE4C37},Active Trail,0.00210652014366109
+13806,HA2637, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.10346575,,,,,,,{09149327-BB11-4341-8A9E-FA93AF658FE9},Active Trail,0.00180054041046566
+13807,HA2638, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.15567792,,,,,,,{16A59096-41AB-4047-82F9-607FEB11190D},Active Trail,0.00258502207615809
+13808,HA2781, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.07343771,,,,,,,{AB7509E0-0866-481A-99FA-02E0B29C88C3},Closed,0.00128576306928153
+13809,HA2783, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.12907952,,,,Access,,,{7D7C2C7F-737F-4EEB-B05A-888A9FE18EDF},Active Trail,0.00194910698427164
+13810,HA288,Yellow with Black Dot,HA,Hartwood Acres,Hartwood Acres Park,Yellow with Black Dot,YL/BK Dot,Yellow, ,Black, ,http://apps.alleghenycounty.us/GIS/YELLOWbase_BLACKdot.png,0.0494089,,,Easy,Access,Dirt,,{7B806CCC-6AD5-4C41-9745-EEFA220EA0D7},Active Trail,0.000883792470020406
+13811,HA2840,Orange,HA,Hartwood Acres,Hartwood Acres Park,Orange,OR,Orange, , , ,http://apps.alleghenycounty.us/GIS/ORANGEbase.png,1.0584415,,,Moderate,Loop,,,{5355E64B-3B86-4285-BFE5-254792E907F8},Active Trail,0.0178654316750141
+13812,HA17700,White,HA,Hartwood Acres,Hartwood Acres Park,White,WT,White,,,,http://apps.alleghenycounty.us/GIS/WHITEbase.png,0.95152602,,,,Loop,Dirt,No,{F5FAFC7E-2743-4796-875B-F14DD3083113},Active,0.0164630058206653
+13813,HA2843,Blue with White Dot,HA,Hartwood Acres,Hartwood Acres Park,Blue with White Dot,BL/WT Dot,Blue, ,White, ,http://apps.alleghenycounty.us/GIS/BLUEbase_WHITEdot.png,0.06697965,,,Easy,Access,,,{77C49682-32CF-469C-9357-F8F641443175},Active Trail,0.00098976303254692
+13814,HA17706,Paved Mansion Loop,HA,Hartwood Acres,Hartwood Acres Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.38487397,,,Easy,Connector,Asphalt,Yes,{51332129-0CB1-402A-8D65-30E761F06A97},Active Trail,0.00615083760678351
+13815,HA17708,Gravel or Paved Trail/Road,HA,Hartwood Acres,Hartwood Acres Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.66418964,,,Easy-Moderate,Gravel Service Road,Reclaimed Asphalt,Yes,{F3656F71-E301-4721-890B-9F61CA0D374C},Active Trail,0.0115837630134733
+13816,HA2961, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.14466378,,,Easy,Pt_to_Pt,,,{4C3146F7-9C31-4278-B842-6A7BDB43CC67},Active Trail,0.00219609086079353
+13817,HA2964, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.01913431,,,,,,,{4D5FA403-D247-4BC3-BC6F-9F9B53E36595},Active Trail,0.000287160693020699
+13818,HA2967, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.01908863,,,,,,,{E95844C5-0923-4B64-98B8-8FD917EBA2A6},Active Trail,0.00035031844711516
+13819,HA2968, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.11897779,,,,,,,{D371A169-016E-49FA-9D5D-313D88B04BEA},Active Trail,0.00182068037627977
+13820,HA17722, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.37166877,,,,,,,{7CF0D9EB-A37D-4193-8E0D-67C727BA191E},Active Trail,0.00572235601997379
+13821,HA6207, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.05100268,,,,,,,{4F1B5062-6682-4E4E-9CBB-AAA7CF710E35},Active Trail,0.000783452121237635
+13822,HA17725,Paved Access to Yellow Trail,HA,Hartwood Acres,Hartwood Acres Park,Gravel or Paved Trail/Road,GY,Gray,,,,http://apps.alleghenycounty.us/GIS/GRAY.png,0.03803717,,,Easy,Access,Asphalt,,{7838D213-5D1C-468A-973E-1D7DC091E474},Active,0.000647139758289585
+13823,HA862,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.03391466,,,Easy-Moderate,Pt_to_Pt,,,{351201ED-E9DC-4A08-B00D-E6C4AE998474},Active,0.000565174134052922
+13824,HA863,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.02110482,,,Easy,Access,,,{5DB39CAC-25C0-43CC-A4CF-DB885BE82EB3},Closed,0.000379940678343374
+13825,HA17728,Gravel or Paved Trail/Road,HA,Hartwood Acres,Hartwood Acres Park,Gravel or Paved Trail/Road,GY,Gray,,,,http://apps.alleghenycounty.us/GIS/GRAY.png,0.10238175,,,Easy-Moderate,Connector,Asphalt,Yes,{16B1F085-08AF-49E4-9743-FDE6D8F15F12},Active,0.0018691684143244
+13826,HA23963,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.04370046,,,Easy,Connector,Dirt,,{C93658D0-082B-45B3-AA4E-25F6C6F0CE02},Active,0.000744188279407681
+13827,HA25178,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.03199396,,,,,,,{0CE3F8CE-3337-499F-BA08-6A9990EE0235},Active,0.000513557131142148
+13828,HA25179,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.03547945,,,,,,,{D55891A7-9DA3-4BC1-BD26-EEB1C8A4DDB7},Active,0.000665266749931703
+13829,HA2172, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.10646422,,,Easy-Moderate,,,,{A799D4A1-FE34-485B-AE6B-2DF7378CEB93},Active Trail,0.00185449854134432
+13830,HA25182,Blue Loop,HA,Hartwood Acres,Hartwood Acres Park,Blue,BL,Blue, , , ,http://apps.alleghenycounty.us/GIS/BLUEbase.png,1.41826896,,,Easy,Loop,,,{C10E0E62-04E5-4F76-B5A3-3EE2657FB041},Active Trail,0.0242727470861267
+13831,HA25754,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.14001883,,,Easy-Moderate,Connector,Dirt,,{D95F9C96-2556-44A7-8DD8-1C8699C0EEBB},Active,0.00244294652856733
+13832,HA25755,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.09181802,,,Easy,Connector,Dirt,,{F1857156-F009-4151-9E63-D932BDDC53C0},Active,0.00168125374643315
+13833,SP25759,Blue Access East,HA,Hartwood Acres,Hartwood Acres Park,Blue,BL,Blue,,,,http://apps.alleghenycounty.us/GIS/BLUEbase.png,0.10143583,,,Easy-Moderate,Connector,Dirt,,{CD274C06-FE80-4D14-8051-20CBB5866A8C},Active,0.00188745506410767
+13834,HA25760,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.12571976,,,Easy,Connector,Dirt,,{C811C37E-0BBF-4F77-8403-EFADDC16AAEE},Active,0.00232594362118015
+13835,HA25761,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.03242441,,,,,,,{EDCA138F-EA4E-4ED5-A7EF-1B18BDFCF620},Active,0.000499914662820064
+13836,HA27573,Hartwood Mansion Sidewalk,HA,Hartwood Acres,Hartwood Acres Park,Gravel or Paved Trail/Road,GY,Gray,,,,http://apps.alleghenycounty.us/GIS/GRAY.png ,0.11892849,,,Easy-Moderate,Access,Concrete,No,{FCAE4C41-1B9F-4248-BB5D-EA36E5ECEBA7},Active,0.00187375058496003
+13837,HA29592,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.0297028,,,Easy,Connector,Dirt,No,{25E8D8DD-E4C9-458F-BFEE-8798A10428FD},Active,0.00051767233916875
+13838,HA29595,Old Blue,HA,Hartwood Acres,Hartwood Acres Park,<Null>,<Null>,, , , ,<Null>,0.10348448,,,Easy,Connector,Dirt,,{541C8C1D-3CEE-4E97-83B2-58FC2F57B3EF},Closed,0.0018046005681033
+13839,HA29992,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.0448804,,,Easy,Connector,Dirt,No,{FC771D71-4A71-4A06-8AA6-26E8CFD7BC8F},Active,0.000777853679525873
+13840,HA29993,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.09273646,,,,Connector,Dirt,No,{1FBD4D47-31C9-4F94-A283-9620F1F5B645},Active,0.00156270480232243
+13841,HA29994, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.17349678,,,,,,,{CAFBB04C-A44B-4F0B-87E7-8F6C63ECAC54},Active Trail,0.00309538176048302
+13842,HA29997,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.01939609,,,,Connector,Dirt,No,{DACCD3F7-18A1-4C8A-A445-A984AD375E89},Active,0.000319004437843429
+13843,HA29998,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.07120251,,,Easy,Connector,Dirt,No,{2CC10CE1-B523-4414-B15B-3D2D1B25C049},Active,0.00132276962145169
+13844,HA29999, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.07727814,,,,,,,{B94FA4C7-5AA3-4706-B975-1E4325A069DD},Active Trail,0.00141606981864832
+13845,HA30002,,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.01634034,,,,Connector,Dirt,No,{D6D1048D-EB25-489E-8069-6392950DB9E1},Active,0.000271921264080186
+13846,HA30003,Old Blue,HA,Hartwood Acres,Hartwood Acres Park,<Null>,<Null>,, , , ,<Null>,0.01171429,,,Easy,Connector,Dirt,,{1E65F52E-3177-4579-B1E5-19ED302FBDFF},Active Trail,0.000177362228854133
+13847,HA31593,Gravel or Paved Trail/Road,HA,Hartwood Acres,Hartwood Acres Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.83310854,,,Easy-Moderate,Connector,Asphalt,Yes,{38953186-B728-457D-98B3-4A81852DC743},Active Trail,0.0140254623717867
+13848,HA31595,Gravel or Paved Trail/Road,HA,Hartwood Acres,Hartwood Acres Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.37013964,,,Easy,Connector,Asphalt,Yes,{BC6E5A94-0E5D-45FB-A259-AF8E9A22B987},Active Trail,0.00574156381957636
+13849,HA31596,Gravel or Paved Trail/Road,HA,Hartwood Acres,Hartwood Acres Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.07938732,,,Easy,Connector,Asphalt,Yes,{802AD082-CFB3-4992-952C-309014F5B72D},Active Trail,0.00132589571664392
+13850,HA31598,Gravel or Paved Trail/Road,HA,Hartwood Acres,Hartwood Acres Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.55382735,,,Moderate,Pt_to_Pt,Asphalt,Yes,{CA164A9B-9378-4010-8BD5-6339D150B803},Active Trail,0.0100612594422511
+13851,HA31599,Gravel or Paved Trail/Road,HA,Hartwood Acres,Hartwood Acres Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.05322531,,,Easy,Connector,Asphalt,Yes,{4492D41D-8B1C-445A-B1C2-A84F94BB6B6B},Active Trail,0.00081919602228845
+13852,HA42486,Decommissioned Red,HA,Hartwood Acres,Hartwood Acres Park,<Null>,<Null>,,,,,<Null>,0.1037432,,,Easy,Access,Dirt,No,{4BEF128E-32C8-4BFD-AC24-4D229B3C8DE6},Active,0.00181070250125102
+13853,HA42496, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.01159566,,,,Connector,Dirt,No,{9284395F-A3D3-4D50-9E49-D95CE967E551},Active,0.000177375703289158
+13854,HA42497, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.01418479,,,Easy,Connector,Dirt,No,{A7F955B3-FEF1-4264-A66F-1010BDD96D81},Active,0.000266113521529331
+13855,HA42513,Red w White Dot Decommissioned,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.09292494,,,,,,,{164FDF89-5E72-4186-9A0D-F83548D53831},Closed,0.00168727580486074
+13856,HA42552, ,HA,Hartwood Acres,Hartwood Acres Park,<Null>,<Null>,,,,,<Null>,0.28319244,,,Moderate,Connector,Dirt,No,{D6EBCBC4-39B7-4238-8226-232F3EC5219D},Active,0.00440824957249508
+13857,HA42553,Purple,HA,Hartwood Acres,Hartwood Acres Park,Purple,PL,Purple,,,,http://apps.alleghenycounty.us/GIS/PURPLEbase.png,2.24734775,,,Moderate-Difficult,Point to Point,Dirt,,{7022C4C5-4654-4515-BD4F-04638A914804},Active,0.0365870972243231
+13858,HA42948, ,HA,Hartwood Acres,Hartwood Acres Park,<Null>,<Null>,,,,,<Null>,0.12283784,,,Easy,Access,Dirt,No,{1F041CC0-91E0-4F17-8812-9C08BF506BCE},Active,0.00189168206007282
+13859,HA42951, ,HA,Hartwood Acres,Hartwood Acres Park,<Null>,<Null>,,,,,<Null>,0.2835093,,,Moderate,Connector,Dirt,No,{5126C71C-1A88-4829-BF66-BD05AFE20A1F},Active,0.00491878988621134
+13860,HA42505, ,HA,Hartwood Acres,Hartwood Acres Park,<Null>,<Null>,,,,,<Null>,0.13694788,,,Moderate,Connector,Dirt,No,{7DA18B54-C83F-4E81-BB74-A9B8A27FE22F},Active,0.00220816446777807
+13861,HA42959, ,HA,Hartwood Acres,Hartwood Acres Park,,,,,,,,0.03405808,,,Easy,Access,Dirt,No,{2B7A5FC9-1249-430F-B1E0-B5A302784E73},Active,0.000616979869741533
+13862,HA42962, ,HA,Hartwood Acres,Hartwood Acres Park,<Null>,<Null>,,,,,<Null>,0.30674196,,,Moderate,Access,Dirt,No,{2B256904-7D4B-4572-BC43-828E45C2153E},Active,0.00518738886676737
+13863,HA42964,Green,HA,Hartwood Acres,Hartwood Acres Park,Green,GN,Green,,,,http://apps.alleghenycounty.us/GIS/GREENbase.png,1.84157332,,,Moderate-Difficult,Loop,,,{90832AB8-BE2E-48B5-9E5C-DFDC00A9AF99},Active,0.0305732898377727
+13864,HA42965,Red with White Dot,HA,Hartwood Acres,Hartwood Acres Park,Red with White Dot,RD/WT Dot,Red,,White,,http://apps.alleghenycounty.us/GIS/Redbase_WHITEdot.png,0.18908867,,,Easy-Moderate,Connector,Dirt,No,{F9C958EF-D621-44BF-93D2-7F515AE84BC6},Active,0.00310107685662887
+13865,HA295,Yellow,HA,Hartwood Acres,Hartwood Acres Park,Yellow,YL,Yellow, , , ,http://apps.alleghenycounty.us/GIS/YELLOWbase.png,0.79609942,,,Easy-Moderate,Loop,,No,{BFC19073-60E4-4419-8ADF-BFB4E7058BC5},Active Trail,0.012908678169192
+13866,HA42534,Red,HA,Hartwood Acres,Hartwood Acres Park,Red,RD,Red,,,,http://apps.alleghenycounty.us/GIS/REDbase.png,1.41102949,,,Moderate-Difficult,Point to Point,Dirt,,{186141E9-1973-4A88-81E6-ECAED21984D4},Active,0.0231036511712559
+13867,HA45450, Old White-decommissioned,HA,Hartwood Acres,Hartwood Acres Park,White,WT,,,,,,0.04672125,,,,,Dirt,No,{7D12F35D-27D9-476D-B03B-04378E6346ED},Closed,0.00082450490324011
+13868,RH2653,Farm Trail,RH,Round Hill,Round Hill Park,Gravel or Paved Trail/Road,GY,Gray,,,,http://apps.alleghenycounty.us/GIS/GRAY.png,0.36072345,,,Easy,,,,{9B5D1E12-4194-4FC7-B0C6-88979114B8BA},Active,0.00660273101132514
+14051,BP13052, ,BP,Boyce,Boyce Park,,,,,,,,0.03153325,,,Easy-Moderate,Connector,Dirt,,{EF120B85-CDE5-4B35-890F-147529E49F6C},Active,0.000476186986252269
+14052,BP4975, ,BP,Boyce,Boyce Park,,,,,,,,0.01945291,,,,,,,{E7A056B0-6396-4CE1-82BA-5B0D52E81A43},Active,0.000305059879397118
+14053,BP4976, ,BP,Boyce,Boyce Park,,,,,,,,0.14792116,,,,,,,{19F63FB8-283E-4645-85C1-4A377D045908},Active,0.0024116414861039
+14054,BP4977, ,BP,Boyce,Boyce Park,,,,,,,,0.18122937,,,,,,,{56CF6B1D-62F1-4824-A3C3-DA25A476B910},Active,0.00303545252987628
+14055,BP4978, ,BP,Boyce,Boyce Park,,,,,,,,0.01991693,,,,,,,{EDB58D4B-E025-4840-93C9-0D8436F5FF49},Active,0.000368110327756079
+14056,BP4979, ,BP,Boyce,Boyce Park,,,,,,,,0.02847381,,,,,,,{0A93DD18-B91C-47FE-B9D2-357FB036717D},Active,0.000459562133877728
+14057,BP4980, ,BP,Boyce,Boyce Park,,,,,,,,0.02173557,,,,,,,{64F36C8B-F69D-4782-A7EB-4911CE0766FD},Active,0.000363703696678285
+14058,BP4981, ,BP,Boyce,Boyce Park,,,,,,,,0.06806912,,,,,,,{BC3E68C3-8026-4061-84C9-DB76AA00EA37},Active,0.0011239251245712
+14059,BP4982, ,BP,Boyce,Boyce Park,,,,,,,,0.01006021,,,,,,,{FBA4DD8B-0277-4057-96D8-541EC06F4030},Active,0.00018513198282876
+14060,BP4985, ,BP,Boyce,Boyce Park,,,,,,,,0.00430486,,,,,,,{22548F49-2A39-45F4-A94A-B40E04DEC9B5},Active,7.47027592885901e-05
+14061,BP4986, ,BP,Boyce,Boyce Park,,,,,,,,0.03760525,,,,,,,{AA994B64-93D3-47A6-8FE3-1DAEA15A1673},Active,0.000614158953982085
+14062,BP4987, ,BP,Boyce,Boyce Park,,,,,,,,0.01479369,,,,,,,{F38DCAAF-EB5C-46F5-A823-42E78F3D6CC2},Active,0.00024202716352727
+14063,BP4988, ,BP,Boyce,Boyce Park,,,,,,,,0.09874577,,,,,,,{DE3F7195-225C-4706-AD82-98EE64D65B49},Active,0.00148503927054383
+14064,BP4989, ,BP,Boyce,Boyce Park,,,,,,,,0.10519411,,,,,,,{09C1BAD3-D8BD-4AC5-B3AB-5020D2946A38},Active,0.00183248600948554
+14065,BP4990, ,BP,Boyce,Boyce Park,,,,,,,,0.03555349,,,,,,,{36883980-B7EB-4125-94C7-F033A2090BC5},Active,0.000547390314581955
+14066,BP4991, ,BP,Boyce,Boyce Park,,,,,,,,0.03109635,,,,,,,{75FE6795-E73A-472F-A87A-9E1DB8B0ACFB},Active,0.000495517305298473
+14067,BP4992, ,BP,Boyce,Boyce Park,,,,,,,,0.05417515,,,,,,,{187A0B21-8ABB-4722-8499-93F22BF4CFFB},Active,0.000865757324038263
+14068,BP4993, ,BP,Boyce,Boyce Park,,,,,,,,0.11709636,,,,,,,{57FB9498-4CEC-4E80-BA73-4C0594BB3BDD},Active,0.00189620288405848
+14069,BP4994, ,BP,Boyce,Boyce Park,,,,,,,,0.06465394,,,,,,,{192A6B8E-3F8A-4C37-9D8C-21D018F4CBB8},Active,0.000949448624980802
+14070,BP4995, ,BP,Boyce,Boyce Park,,,,,,,,0.01949071,,,,,,,{A919778B-D5DB-40FC-B64E-96CF7856CC1D},Active,0.000318325041848267
+14071,BP4996, ,BP,Boyce,Boyce Park,,,,,,,,0.14118021,,,,,,,{19BCC583-BC8B-463E-8BF3-144CA1D35DED},Active,0.00259018418432318
+14072,BP4997, ,BP,Boyce,Boyce Park,,,,,,,,0.0278478,,,,,,,{8B3A0CC8-1EDC-4DA1-87D5-50C4D8EE023D},Active,0.000424046925268659
+14073,BP4998, ,BP,Boyce,Boyce Park,,,,,,,,0.08573527,,,,,,,{2CD45856-E908-42E4-A237-941A1F95360B},Active,0.00140077619008679
+14074,BP4999, ,BP,Boyce,Boyce Park,,,,,,,,0.01138304,,,,,,,{10CEFAEB-D211-4A1D-9785-BFA26420DFDC},Active,0.000167425516895206
+14075,BP5000, ,BP,Boyce,Boyce Park,,,,,,,,0.06936028,,,,,,,{8780D912-A9DC-4017-A94D-D1B6A30CA00F},Active,0.00111819347866584
+14076,BP5002, ,BP,Boyce,Boyce Park,,,,,,,,0.04427304,,,,,,,{3CA66D1B-2555-42AC-B317-7D0AC896F37A},Active,0.000690318888373799
+14077,BP5004, ,BP,Boyce,Boyce Park,,,,,,,,0.18402769,,,,,,,{D2038749-645C-4506-A8FA-7821A06D8402},Active,0.00299249540137628
+14078,BP5005, ,BP,Boyce,Boyce Park,,,,,,,,0.02309195,,,,,,,{4E750FE9-4966-4434-95DF-368C507C958F},Active,0.000429283805321204
+14079,BP5006, ,BP,Boyce,Boyce Park,,,,,,,,0.01558004,,,,,,,{A10522C7-15C3-4684-AE29-8249EDE56E18},Active,0.000231882115763491
+14080,BP5007, ,BP,Boyce,Boyce Park,,,,,,,,0.022512,,,,,,,{9EB0AF6D-692D-4976-90CA-F97015DE3692},Active,0.000409497446668366
+14081,BP5008, ,BP,Boyce,Boyce Park,,,,,,,,0.04679419,,,,,,,{F8C5FE56-D1B9-4F6C-B9D4-77FC2B2F6F90},Active,0.000777828823508411
+14082,BP5009, ,BP,Boyce,Boyce Park,,,,,,,,0.04399209,,,,,,,{9A5F095F-33CE-4600-B346-0C63D3E68F4E},Active,0.000720326016418459
+14083,BP5013, ,BP,Boyce,Boyce Park,,,,,,,,0.08029912,,,,,,,{8FC44220-EE93-4E55-9E88-F2BC42E72BAF},Active,0.00134916180779012
+14084,BP5014, ,BP,Boyce,Boyce Park,,,,,,,,0.04481311,,,,,,,{01556920-2CA6-43BA-888E-8101CE2AF152},Active,0.000794221509837134
+14085,BP5015, ,BP,Boyce,Boyce Park,,,,,,,,0.17387999,,,,,,,{0BF076AE-10DF-4063-8955-E81476D0FB42},Active,0.00308135293639663
+14086,BP5016, ,BP,Boyce,Boyce Park,,,,,,,,0.01708992,,,,,,,{7DC88EB1-9FD1-4B24-ADA0-65DA97BEAE85},Active,0.000308848640248718
+14087,BP5017, ,BP,Boyce,Boyce Park,,,,,,,,0.13012309,,,,,,,{6482376D-FC51-452E-B32D-A7A0396D30B2},Active,0.00234327978486103
+14088,BP5019, ,BP,Boyce,Boyce Park,,,,,,,,0.02687612,,,,,,,{6209D223-C1D9-446B-A82F-1720C11BBC9C},Active,0.000421433820545761
+14089,BP5020, ,BP,Boyce,Boyce Park,,,,,,,,0.13531231,,,,,,,{905985A0-1B7A-465A-B412-A77E2A799E1B},Active,0.00207455134978444
+14090,BP5021, ,BP,Boyce,Boyce Park,,,,,,,,0.12057706,,,,,,,{4CE3D586-1320-4A14-A1C0-B4AE84300AB7},Active,0.00180227487085801
+14091,BP5022, ,BP,Boyce,Boyce Park,,,,,,,,0.13200314,,,,,,,{CC115690-E01C-443A-8E8D-CDA5A089B91C},Active,0.00201003973134065
+14092,BP5023, ,BP,Boyce,Boyce Park,,,,,,,,0.15995612,,,,,,,{DA224861-DE2F-4097-B5A2-B600038D2C41},Active,0.00275804684475804
+14093,BP5024, ,BP,Boyce,Boyce Park,,,,,,,,0.16342964,,,,,,,{B1D557C1-29D4-4C4D-B1DD-AA80C62545E6},Active,0.00289054018380841
+14094,BP13101, ,BP,Boyce,Boyce Park,,,,,,,,0.06895431,,,,Connector,,,{C6C9BECB-CD0D-4BC7-8CA1-14BDAF0CD78F},Active,0.00127675390872558
+14095,BP13103, ,BP,Boyce,Boyce Park,,,,,,,,0.2588137,,,,Connector,,,{52A58425-E96C-4689-8B53-A5006775E861},Active,0.00471173293387106
+14096,BP5028, ,BP,Boyce,Boyce Park,,,,,,,,0.0310323,,,,,,,{BB7657E4-51C2-402D-9096-D904AA82AD80},Active,0.000451139025361191
+14097,BP13105, ,BP,Boyce,Boyce Park,,,,,,,,0.06383426,,,,,,,{DC82D2F0-410F-43EE-891B-DCD25A4BB5E6},Active,0.00117431257469925
+14098,BP13106, ,BP,Boyce,Boyce Park,,,,,,,,0.20564026,,,,Access,,,{71B5C5EC-B37A-4FFF-BF2D-E608016FF78A},Active,0.00306965666419579
+14099,BP5032, ,BP,Boyce,Boyce Park,,,,,,,,0.02059621,,,,,,,{4897024C-FCD4-4097-9CA7-8BDD5F497977},Active,0.000303272482790132
+14100,BP5033, ,BP,Boyce,Boyce Park,,,,,,,,0.21051812,,,,,,,{8385DE2F-B0FB-492B-A9E9-027CD3CC4325},Active,0.0036401407308178
+14101,BP5038, ,BP,Boyce,Boyce Park,,,,,,,,0.03170001,,,,,,,{D6AFDFAE-CE96-4E35-8D4E-12A9E0EDEE6E},Closed,0.000480175326012457
+14102,BP5042, ,BP,Boyce,Boyce Park,,,,,,,,0.17604682,,,,,,,{F1F29AB5-478E-46A7-90D7-1EB827DC20E7},Active,0.00310549126834109
+14103,BP5043, ,BP,Boyce,Boyce Park,,,,,,,,0.08360277,,,,,,,{C724E6F5-A2E4-47F3-9B61-8CD209A7EB6E},Active,0.00136890577431107
+14104,BP5044, ,BP,Boyce,Boyce Park,,,,,,,,0.01988253,,,,,,,{87D05576-5DD3-43EA-9661-84C6C05A841E},Active,0.000333114534847747
+14105,BP5045, ,BP,Boyce,Boyce Park,,,,,,,,0.01687412,,,,,,,{1295AB0F-23E2-48E5-9544-FAC7826A458D},Active,0.000303654277093194
+14106,BP5047, ,BP,Boyce,Boyce Park,,,,,,,,0.10729854,,,,,,,{06457A35-071D-4B74-9E48-944D743D92DF},Active,0.0017976312516527
+14107,BP5048, ,BP,Boyce,Boyce Park,,,,,,,,0.0316055,,,,,,,{F2F27531-696A-40AA-9F37-1BD7E7DD92E6},Active,0.000461058405681275
+14108,BP5052, ,BP,Boyce,Boyce Park,,,,,,,,0.0232896,,,,,,,{9158A4B9-D7BD-41AF-B604-43DCBD99E3B9},Active,0.000434446117511327
+14109,BP5053, ,BP,Boyce,Boyce Park,,,,,,,,0.03628316,,,,,,,{DC067DE0-69C8-4776-BBB2-7E7561554511},Active,0.000619376427806324
+14110,BP5054, ,BP,Boyce,Boyce Park,,,,,,,,0.01086721,,,,,,,{154ECE1F-A8DC-431F-948B-FE3ED4852291},Active,0.000185283730052644
+14111,BP5055, ,BP,Boyce,Boyce Park,,,,,,,,0.02501298,,,,,,,{86E38863-DF98-4E2F-874F-BDB43F6CC754},Active,0.000364677208390165
+14112,BP5058, ,BP,Boyce,Boyce Park,,,,,,,,0.03216667,,,,,,,{06537AFA-3207-4BA2-AA19-F24BF6504EF5},Closed,0.000486329636261119
+14113,BP5059, ,BP,Boyce,Boyce Park,,,,,,,,0.06200639,,,,,,,{6997A1F2-FEE9-4E0E-AFEE-28FA8938AE7D},Active,0.000932528494914747
+14114,BP5060, ,BP,Boyce,Boyce Park,,,,,,,,0.05206466,,,,,,,{88ED0E86-DBED-480C-A57A-FA634BF60368},Active,0.000806099822228614
+14115,BP5061, ,BP,Boyce,Boyce Park,,,,,,,,0.07858309,,,,,,,{56A96F28-6212-4F9C-B2DC-39D9427EE80C},Active,0.00126685184194671
+14116,BP5062, ,BP,Boyce,Boyce Park,,,,,,,,0.00659981,,,,,,,{B2A82C51-8FB9-49E7-9B36-07C393C12BA4},Active,0.000116499718738388
+14117,BP13130, ,BP,Boyce,Boyce Park,,,,,,,,0.02554401,,,,,Dirt,No,{14CF30BD-D196-4ABD-9F50-B2F48A78BA8A},Closed,0.000480374832409051
+14118,BP5064, ,BP,Boyce,Boyce Park,,,,,,,,0.00876439,,,,,,,{DFC62DBF-D470-4D22-806D-3335ABEDCE57},Active,0.000146874962600047
+14119,BP5066, ,BP,Boyce,Boyce Park,,,,,,,,0.01138315,,,,,,,{3FF01D38-64A7-459E-8AC2-41A00D8E8BE0},Active,0.000215706225161943
+14120,BP5067, ,BP,Boyce,Boyce Park,,,,,,,,0.02667188,,,,,,,{7B12109F-5A41-4F62-BCFE-C33FEEAEEB05},Active,0.000451919136435254
+14121,BP5068, ,BP,Boyce,Boyce Park,,,,,,,,0.0701453,,,,,,,{F2039D4A-AA00-490C-933A-0E3071AA78CA},Active,0.00109587209862372
+14122,BP5069, ,BP,Boyce,Boyce Park,,,,,,,,0.02125049,,,,,,,{A80D4E46-BDD4-4EE7-A07A-C7847B1A7307},Active,0.000354221992649311
+14123,BP5070, ,BP,Boyce,Boyce Park,,,,,,,,0.03073145,,,,,,,{0151E397-9CE1-4FA9-9B6E-02531DE3145F},Active,0.000517782624464268
+14124,BP5073, ,BP,Boyce,Boyce Park,,,,,,,,0.02957185,,,,,,,{8A13247E-29A0-48A4-9CD9-BAE68E8418B3},Active,0.000546353831950819
+14125,BP5074, ,BP,Boyce,Boyce Park,,,,,,,,0.01623631,,,,,,,{82CD98E8-8960-43B6-ACF7-3B2A9338F0BB},Active,0.000266269702737816
+14126,BP5077, ,BP,Boyce,Boyce Park,,,,,,,,0.15756422,,,,,,,{DFA9092F-8431-4665-A445-F3E36ADFBEC6},Active,0.00258315085513296
+14127,BP5079, ,BP,Boyce,Boyce Park,,,,,,,,0.38191343,,,,,,,{BA21A85C-53AC-469C-8230-EC2913725192},Active,0.00652716059681389
+14128,BP5080, ,BP,Boyce,Boyce Park,,,,,,,,0.02141929,,,,,,,{D07487E2-EA62-4C90-BBFC-96236DC5936D},Active,0.000325803219016736
+14129,BP5081, ,BP,Boyce,Boyce Park,,,,,,,,0.02497491,,,,,,,{C3E7F8F6-BBB2-4B54-976E-B43E7A7BCCD7},Active,0.000419016209339137
+14130,BP5083, ,BP,Boyce,Boyce Park,,,,,,,,0.05717047,,,,,,,{ACC553D4-876C-4664-BF4F-F160F354FAB1},Active,0.000991701805371886
+14131,BP5084, ,BP,Boyce,Boyce Park,,,,,,,,0.27101343,,,,,,,{7357D335-9F25-4068-8E66-512EF34620AC},Active,0.00432865511947573
+14132,BP5085, ,BP,Boyce,Boyce Park,,,,,,,,0.35133041,,,,,,,{1DE39745-8272-4BA2-9A3B-BE1211018236},Active,0.00620340346358316
+14133,BP5086, ,BP,Boyce,Boyce Park,,,,,,,,0.29387641,,,,,,,{F58B155D-667E-4CEA-98A6-09AC5437D04D},Active,0.00483443821254494
+14134,BP5087, ,BP,Boyce,Boyce Park,,,,,,,,0.11693625,,,,,,,{19CAE18E-E969-48F1-8610-FC343C4CBE55},Active,0.00181959461966313
+14135,BP5088, ,BP,Boyce,Boyce Park,,,,,,,,0.22510878,,,,,,,{FE1181CB-3975-4A51-88C8-B8DF9666D2B2},Active,0.00390420784784771
+14136,BP5089, ,BP,Boyce,Boyce Park,,,,,,,,0.21405816,,,,,,,{F3016D35-4048-4EFC-A86C-169313F3C483},Active,0.0039312181829194
+14137,BP13155, ,BP,Boyce,Boyce Park,,,,,,,,0.17288698,,,,Access,Dirt,,{CEAC966B-2E2E-496D-9C86-2D40C41AD60B},Active,0.00253798042673284
+14138,BP5094, ,BP,Boyce,Boyce Park,,,,,,,,0.04989435,,,,,,,{EA25078F-902E-4FC4-8838-89F143DA0B3E},Active,0.000858012736391691
+14139,BP5095, ,BP,Boyce,Boyce Park,,,,,,,,0.16222703,,,,,,,{75F04392-A5DC-4FCD-AC52-EA17919FE5AF},Active,0.00285111720141038
+14140,BP5097, ,BP,Boyce,Boyce Park,,,,,,,,0.01233765,,,,,,,{59BA1A03-C465-4225-9E64-0B7AB09BD5F1},Active,0.000181619534107706
+14141,BP5099, ,BP,Boyce,Boyce Park,,,,,,,,0.01348283,,,,,,,{2A589412-2816-4FB9-8A26-A2A0FF10694B},Active,0.000234532747970387
+14142,BP13162,,BP,Boyce,Boyce Park,,,,,,,,0.05636351,,,,,,,{399D579E-BF98-4404-9255-A9CA27CDA55A},Closed,0.000864610958390357
+14143,BP5101, ,BP,Boyce,Boyce Park,,,,,,,,0.02097044,,,,,,,{D5B611EE-0F83-4C91-B562-C70D858B3A89},Active,0.000381844883011695
+14144,BP5102, ,BP,Boyce,Boyce Park,,,,,,,,0.01104813,,,,,,,{966FFF11-8896-45A3-8AB2-B46797D4AE07},Active,0.000168620268968418
+14145,BP5103, ,BP,Boyce,Boyce Park,,,,,,,,0.01279399,,,,,,,{6CC1CFE9-7CC6-44B7-AC7F-E67F8538E1AC},Active,0.000224571920271999
+14146,BP5104, ,BP,Boyce,Boyce Park,,,,,,,,0.00956338,,,,,,,{4C0C3698-7CC4-4EEE-A896-F30D87261BEF},Active,0.000167245311487941
+14147,BP5105, ,BP,Boyce,Boyce Park,,,,,,,,0.00711974,,,,,,,{4894E420-DBFB-48DC-A280-4156DEE521DC},Active,0.000121213394618715
+14148,BP5106, ,BP,Boyce,Boyce Park,,,,,,,,0.05845191,,,,,,,{E1A41385-67C8-410C-9CD4-4202E2646DC2},Active,0.00100996299235583
+14149,BP5107, ,BP,Boyce,Boyce Park,,,,,,,,0.01116996,,,,,,,{64A08809-A806-4582-B33F-EF3558D21668},Active,0.000196556747927394
+14150,BP5109,Green with Yellow Cap,BP,Boyce,Boyce Park,Green with Yellow Cap,GN/YL Cap,Green,Yellow, , ,http://apps.alleghenycounty.us/GIS/GREENbase_YELLOWcap.png,0.03949586,,,Easy,Access,,,{91A4D3B1-BD95-4E49-8269-B1EC54F9D3AD},Active,0.00062971509421945
+14151,BP13172,Blue with Yellow Dot,BP,Boyce,Boyce Park,Blue with Yellow Dot,BL/YL Dot,Blue, ,Yellow, ,http://apps.alleghenycounty.us/GIS/BLUEbase_YELLOWdot.png,1.23655063,,,Easy-Moderate,Pt_to_Pt,,,{22DDF679-20B2-4A23-B1B7-36B51E325877},Active,0.0203173692073314
+14152,BP5113,White,BP,Boyce,Boyce Park,White,WT,White, , , ,http://apps.alleghenycounty.us/GIS/WHITEbase.png,1.76619713,,,Moderate,Loop,,,{E6CFE640-997D-4DB7-9A86-7AE1B5428798},Active,0.0288095711498161
+14153,BP5114,White with Red Dot,BP,Boyce,Boyce Park,White with Red Dot,WT/RD Dot,White, ,Red, ,http://apps.alleghenycounty.us/GIS/WHITEbase_REDdot.png,1.80674713,,,Easy-Moderate,Pt_to_Pt,,,{4304F096-D477-4EEE-B6DD-3FBA43420D9B},Active,0.0295092472996495
+14154,BP5115,White with Black Dot,BP,Boyce,Boyce Park,White with Black Dot,WT/BK Dot,White, ,Black, ,http://apps.alleghenycounty.us/GIS/WHITEbase_BLACKdot.png,0.40263257,,,Easy-Moderate,Pt_to_Pt,,,{BDA8EDC5-B224-4989-8DA1-4157D61FF39B},Active,0.00661843663370711
+14155,BP13176,White with White Cap,BP,Boyce,Boyce Park,White with White Cap,WT/WT Cap,White,White,,,http://apps.alleghenycounty.us/GIS/WHITEbase_WHITEcap.png,0.10369015,,,Easy-Moderate,,Dirt,No,{225BF080-E3FB-4795-90FB-08538AFB61AD},Active,0.00168678891496716
+14156,BP5117,Blue with Blue Cap,BP,Boyce,Boyce Park,Blue with Blue Cap,BL/BL Cap,Blue,Blue, , ,http://apps.alleghenycounty.us/GIS/BLUEbase_BLUEcap.png,0.17980209,,,Easy-Moderate,Connector,,,{E9F1F0AA-F2FF-4FF9-9F9C-E24DF1651C8C},Active,0.00313267951793446
+14157,BP13178,Blue,BP,Boyce,Boyce Park,Blue,BL,Blue,,,,http://apps.alleghenycounty.us/GIS/BLUEbase.png,1.204944,,,Moderate,Point to Point,Dirt,No,{85F06BB2-4707-4552-B823-9E5E74B48923},Active,0.0189646879505407
+14158,BP5119,Blue with Black Dot,BP,Boyce,Boyce Park,Blue with Black Dot,BL/BK Dot,Blue, ,Black, ,http://apps.alleghenycounty.us/GIS/BLUEbase_BLACKdot.png,0.51188322,,,Easy-Moderate,Loop,,,{5EE27740-2474-4431-8639-89E9E4EF13F7},Active,0.00881739638038518
+14159,BP5120,Blue with Red Dot and Blue Cap,BP,Boyce,Boyce Park,Blue with Red Dot and Blue Cap,BL/RD Dot/BL Cap,Blue,Blue,Red, ,http://apps.alleghenycounty.us/GIS/BLUEbase_REDdot_BLUEcap.png,0.15213585,,,Easy,Connector,,,{F374B2DE-C30A-4F0B-91E4-11D73863FC59},Active,0.00245656952978578
+14160,BP5121,Orange with Black Dot,BP,Boyce,Boyce Park,Orange with Black Dot,OR/BK Dot,Orange, ,Black, ,http://apps.alleghenycounty.us/GIS/ORANGEbase_BLACKdot.png,0.34680806,,,Easy-Moderate,Access,,,{109F5270-127D-4315-9CAA-2C99E89E2165},Active,0.00587415744366409
+14161,BP5122,Blue with Yellow Cap,BP,Boyce,Boyce Park,Blue with Yellow Cap,BL/YL Cap,Blue,Yellow, , ,http://apps.alleghenycounty.us/GIS/BLUEbase_YELLOWcap.png,0.03845117,,,Easy,Connector,,,{C9A84F98-D812-4ED2-A9D0-529284E32C2E},Active,0.000694509072940155
+14162,BP13183, ,BP,Boyce,Boyce Park,<Null>,<Null>,,, , ,<Null>,0.0337154,,,Easy-Moderate,Access,,,{7CE18C31-4238-413B-B8AF-CE0721DE9689},Active,0.000614224134445431
+14163,BP13185, ,BP,Boyce,Boyce Park,<Null>,<Null>,,,, ,<Null>,0.13620146,,,Easy-Moderate,Connector,Dirt,No,{27F6CA4D-0B0F-4E92-A1BB-AFAABA8FFFD1},Active,0.00220975302007208
+14164,BP13189,Orange with Yellow Dot,BP,Boyce,Boyce Park,Orange with Yellow Dot,OR/YL Dot,Orange, ,Yellow, ,http://apps.alleghenycounty.us/GIS/ORANGEbase_YELLOWdot.png,0.21427762,,,Moderate,Pt_to_Pt,Dirt,No,{CB5D4C9D-43F7-4285-BDAC-03D9FA169975},Active,0.00386030165866105
+14165,BP5130,Green with Red Dot,BP,Boyce,Boyce Park,Green with Red Dot,GN/RD Dot,Green, ,Red, ,http://apps.alleghenycounty.us/GIS/GREENbase_REDdot.png,0.37338591,,,Easy-Moderate,Pt_to_Pt,,,{A498F13A-3C43-4DDC-8734-A1B09C92B7A9},Active,0.00644322433960457
+14166,BP5131,Orange with White Dot,BP,Boyce,Boyce Park,Orange with White Dot,OR/WT Dot,Orange, ,White, ,http://apps.alleghenycounty.us/GIS/ORANGEbase_WHITEdot.png,0.42151509,,,Easy-Moderate,Pt_to_Pt,,,{4DD4CCBF-157D-40B1-8A84-ED238A25077E},Active,0.00740692054383098
+14167,BP5132,Orange,BP,Boyce,Boyce Park,Orange,OR,Orange, , , ,http://apps.alleghenycounty.us/GIS/ORANGEbase.png,1.21530447,,,Easy-Moderate,Pt_to_Pt,,,{F6FD87A0-AF67-4468-9D97-FFF9FEBD111C},Active,0.0202729475900097
+14168,BP5133,Yellow with Black Dot and Red Cap,BP,Boyce,Boyce Park,<Null>,<Null>,,,,,<Null>,0.02747998,,,Moderate,Connector,,,{A253E7CF-2D6C-40C7-A1D5-DF215156A2F9},Closed,0.000477834191940227
+14169,BP5134,Green with Orange Cap,BP,Boyce,Boyce Park,Green with Orange Cap,GN/OR Cap,Green,Orange, , ,http://apps.alleghenycounty.us/GIS/GREENbase_ORANGEcap.png,0.01113508,,,Easy-Moderate,Access,,,{C1797297-A772-4A16-9776-90E96D7782C6},Active,0.000208711666234546
+14170,BP5135,White with Red Dot and Red Cap,BP,Boyce,Boyce Park,White with Red Dot and Red Cap,WT/RD Dot/RD Cap,White,Red,Red, ,http://apps.alleghenycounty.us/GIS/WHITEbase_REDdot_REDcap.png,0.06524244,,,Easy-Moderate,Connector,,,{445DFF43-E370-4EEE-B45C-DF6BD87DED18},Active,0.0010893178510962
+14171,BP13196,,BP,Boyce,Boyce Park,<Null>,<Null>,,,,,<Null>,0.10499688,,,,Connector,,No,{B37AD9C9-8CC0-46D2-9DED-4B67B02EB079},Active,0.00172717738874679
+14172,BP5137,Blue with Red Cap,BP,Boyce,Boyce Park,Blue with Red Cap,BL/RD Cap,Blue,Red, , ,http://apps.alleghenycounty.us/GIS/BLUEbase_REDcap.png,0.10058596,,,Easy,Connector,,,{AFADDB79-38F7-4D49-9CFD-52D11B67D393},Active,0.00176705841683816
+14173,BP13200,Blue with Red Dot,BP,Boyce,Boyce Park,Blue with Red Dot,BL/RD Dot,Blue,,Red,,http://apps.alleghenycounty.us/GIS/BLUEbase_REDdot.png,1.57188732,,,Easy-Moderate,Point to Point,Dirt,No,{7E24EE3E-1250-4B1D-8C54-A305DCE6F674},Active,0.0256015321622496
+14174,BP13201, ,BP,Boyce,Boyce Park,<Null>,<Null>,,,,,<Null>,0.04371428,,,Easy-Moderate,Access,Dirt,No,{D9705A71-6D14-43F8-9043-5B6E9AAE3F1E},Active,0.000818788758885123
+14175,BP5144,Orange with Brown Dot,BP,Boyce,Boyce Park,<Null>,<Null>,, ,,,<Null>,0.03904073,,,Moderate,Access,,,{A37A1335-369A-4473-AE9B-CE7A4762400F},Closed,0.000676382734533348
+14176,BP5145,Gravel or Paved Trail/Road,BP,Boyce,Boyce Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,1.05206261,,,Easy,Gravel Service Road,Reclaimed Asphalt,Yes,{B9857778-8D9F-47D5-BB12-0456D10C7A93},Active,0.0166572415919997
+14177,BP5146,Gravel or Paved Trail/Road,BP,Boyce,Boyce Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.4947782,,,Easy-Moderate,Gravel Service Road,Reclaimed Asphalt,Yes,{CAE56A31-A807-4073-9493-C9EEFC90EA2D},Active,0.00874349099577008
+14178,BP5147,Gravel or Paved Trail/Road,BP,Boyce,Boyce Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.38477337,,,Moderate,Gravel Service Road,Crushed Limestone,Yes,{A1139EEF-6A87-4B2F-8F02-9EF82DE6B5F4},Active,0.00658040365276275
+14179,BP5148,Green with Green Cap,BP,Boyce,Boyce Park,Green with Green Cap,GN/GN Cap,Green,Green, , ,http://apps.alleghenycounty.us/GIS/GREENbase_GREENcap.png,0.02148242,,,Easy,Access,,,{9C4C84C6-61BB-438D-A22D-94402F8DD5C1},Active,0.000380651915416106
+14182,BP6227, ,BP,Boyce,Boyce Park,,,,,,,,0.03707365,,,,,,,{F2959DEA-5084-4BBD-A9CD-8BDFC5143EE3},Closed,0.000575294289830512
+14216,BP4974, ,BP,Boyce,Boyce Park,,,,,,,,0.01601428,,,,,,,{2BC663EC-E392-458F-8D85-4B8E8DCFB185},Active,0.000270798093192972
+14217,BP5076, ,BP,Boyce,Boyce Park,,,,,,,,0.13349759,,,,,,,{496E6399-7D52-4962-ADE6-9EFD527AEEFB},Active,0.00226695483378275
+14219,BP24780,Yellow  Loop Access,BP,Boyce,Boyce Park,Yellow,YL,Yellow,,,,http://apps.alleghenycounty.us/GIS/YELLOWbase.png,0.08790278,,,Easy-Moderate,Access,Dirt,No,{0510D0E3-47A7-491E-92C6-4F53278EDA0D},Active,0.00153426098325502
+14220,SP2230, ,SP,South Park,South Park,,,,,,,,0.11053024,,,,,,,{BA0CE0D5-E893-40AE-8A45-44F3B0BF807F},Active Trail,0.001784091408066
+14221,SP2231, ,SP,South Park,South Park,,,,,,,,0.13091986,,,,,,,{18D267D2-5C92-40DE-B7DC-3942421BCEFD},Active Trail,0.00217373374773301
+14223,SP77, ,SP,South Park,South Park,,,,,,,,0.06711588,,,Easy-Moderate,Access,,,{FD5B175D-1ADD-4FD0-B858-E6B43660C134},Closed,0.00111023308135059
+14224,SP25597, ,SP,South Park,South Park,,,,,,,,0.09328031,,,Easy-Moderate,Access,Dirt,,{39021C9A-C1C9-4DEC-8C19-1F9B0884C929},Active Trail,0.00154866746429691
+14225,SP2239, ,SP,South Park,South Park,,,,,,,,0.06837006,,,,,,,{231A5FC3-0891-4D4E-A168-CF5F2F849B8C},Active Trail,0.00125482153731256
+14226,SP2240, ,SP,South Park,South Park,,,,,,,,0.23660765,,,,,,,{A19FB157-CDFA-42E4-9384-FFD9C330536E},Active Trail,0.00401750380249993
+14227,SP2241, ,SP,South Park,South Park,,,,,,,,0.14050693,,,,,,,{EA313140-37C2-4F06-B076-9C97A2D58929},Active Trail,0.00231670511610895
+14228,SP2243, ,SP,South Park,South Park,,,,,,,,0.11006847,,,,,,,{B7A11D19-1B8F-451E-8628-77101551B391},Active Trail,0.00204665159593896
+14229,SP2249, ,SP,South Park,South Park,,,,,,,,0.05757568,,,,,,,{1D30E123-051B-404D-8E28-4FF00A70FBF6},Active Trail,0.00108239940269514
+14230,SP2250,Verify/Remove if trail has disappeared,SP,South Park,South Park,,,,,,,,0.08172789,,,,,,,{8844B232-E0F6-4332-8B6E-A6F2E83EF75C},Closed,0.00123332079676467
+14231,SP2251,Verify/Remove if trail has disappeared,SP,South Park,South Park,,,,,,,,0.08302163,,,,,,,{006AC34B-2E9E-42BC-AFC0-6470D069DD65},Closed,0.0014167773480851
+14232,SP2252,Verify/Remove if trail has disappeared,SP,South Park,South Park,,,,,,,,0.06757798,,,,,,,{5C2DFECC-9640-4974-BC4D-ADA5F7C71026},Closed,0.00118184374688365
+14233,SP2254, ,SP,South Park,South Park,,,,,,,,0.10498634,,,,,,,{8EFAF8C9-5B93-4B30-9643-5C052CFCD222},Active Trail,0.00182958541590436
+14234,SP2255, ,SP,South Park,South Park,,,,,,,,0.19892949,,,,,,,{CE943BF3-558B-404F-8591-EF0939C0809F},Active Trail,0.00319087569442731
+14235,SP2256, ,SP,South Park,South Park,,,,,,,,0.07790198,,,,,,,{18122E64-CF39-4244-891E-5517487D0067},Active Trail,0.00116855698679238
+14236,SP2257, ,SP,South Park,South Park,,,,,,,,0.13736474,,,,,,No,{E09B9527-B888-4F74-A847-8687E29C838A},Active,0.00236192679615568
+14237,SP2259, ,SP,South Park,South Park,,,,,,,,0.0530188,,,,,,,{4BB30CFF-5F3A-4B11-B5F0-F2A2C2E81171},Active Trail,0.000882175994157801
+14238,SP2260,Verify/Remove if trail has disappeared,SP,South Park,South Park,,,,,,,,0.05741491,,,,,,,{1DE5E8D1-A1A9-4206-8804-1203340C9817},Closed,0.000977846991530156
+14239,SP25615, ,SP,South Park,South Park,,,,,,,,0.27769256,,,Moderate-Difficult,,Dirt,No,{47677557-1AD4-4F45-9FA9-6BED525A310F},Closed,0.00456951809487304
+14240,SP2266, ,SP,South Park,South Park,,,,,,,,0.03354647,,,,,,,{7A9A2F49-2143-4550-B394-89879D6A1060},Active Trail,0.000552625956262522
+14241,SP2267, ,SP,South Park,South Park,,,,,,,,0.00968357,,,,,,,{C8E19AD0-E8BF-4957-8024-46B3692B7CEC},Active Trail,0.000166380006294741
+14242,SP2268, ,SP,South Park,South Park,,,,,,,,0.01637743,,,,,,,{5A97F5BD-B5DB-4339-B6A6-365916F6451B},Active Trail,0.000275155402307406
+14243,SP2271, ,SP,South Park,South Park,,,,,,,,0.02221989,,,,,,,{04B3A73F-8B75-4917-A695-226CAFA7FF13},Active Trail,0.000362512669472552
+14244,SP2272,Verify/Remove if trail has disappeared,SP,South Park,South Park,,,,,,,,0.0851931,,,,,,,{8721E0DB-E787-4D4C-B6B8-EC2C44FBE79F},Closed,0.00145746259950585
+14245,SP2273,Verify/Remove if trail has disappeared,SP,South Park,South Park,,,,,,,,0.0258301,,,,,,,{4BDEF3AE-679F-47E2-89E3-8BED7ED47920},Closed,0.000469016325610681
+14246,SP25627, ,SP,South Park,South Park,,,,,,,,0.16675454,,,,,,,{EE76F42B-AF27-4578-BC63-5367A98DA3F9},Active,0.00302977918613716
+14247,SP2276, ,SP,South Park,South Park,,,,,,,,0.18340774,,,,,,,{4E209E41-2419-402A-A1C3-F273BFAE5B63},Active Trail,0.00322676755358278
+14248,SP2277, ,SP,South Park,South Park,,,,,,,,0.00840939,,,,,,,{1F272C8F-6042-47D3-88C5-6DAC36A06FC3},Active Trail,0.000146564413591826
+14249,SP25630,MTC Montour Trail Connector,SP,South Park,South Park,Gray,GY,Gray,,,,http://apps.alleghenycounty.us/GIS/GRAY.png,2.25046659,,,Easy,,,,{535B4767-F397-4FA2-B216-2483046BCE8D},Active,0.0363685103850049
+14250,SP2279, ,SP,South Park,South Park,,,,,,,,0.02310544,,,,,,,{2C2BFF38-4DEC-4B3B-9A56-06B743CF3232},Active Trail,0.000396994809893493
+14251,SP2281, ,SP,South Park,South Park,,,,,,,,0.04154611,,,,,,,{F1A7E1B4-1326-4A3C-A1D4-8E9D065B4932},Active Trail,0.000757015109464562
+14252,SP2283, ,SP,South Park,South Park,,,,,,,,0.02838739,,,,,,,{66964C68-29AB-44E2-B8AC-D2171A72890D},Active Trail,0.000512935428237347
+14253,SP2284, ,SP,South Park,South Park,,,,,,,,0.04905043,,,,,,,{88AA98E1-AE1B-4C31-BE37-032B2CCA44B1},Active Trail,0.00089240707052335
+14254,SP2288, ,SP,South Park,South Park,,,,,,,,0.16239445,,,,,,,{69E7EC31-F8A0-4C7B-8AEF-D927C30F8AFE},Active Trail,0.00265220974272585
+14255,SP2289, ,SP,South Park,South Park,,,,,,,,0.10805786,,,,,,,{CE2AE274-8728-4071-9856-60EB14C9C03E},Active Trail,0.00174267586963422
+14256,SP2290, ,SP,South Park,South Park,,,,,,,,0.01905209,,,,,,,{68B218CE-AA04-482A-BBAC-B76D65C4BCE0},Active Trail,0.000307538108406657
+14257,SP2291, ,SP,South Park,South Park,,,,,,,,0.21657317,,,,,,,{6AC5642F-738F-48AC-8C3C-86ED42640ECC},Active Trail,0.00347347981419974
+14258,SP2292, ,SP,South Park,South Park,,,,,,,,0.06765436,,,,,,,{A8D0C8F8-562F-450F-BA53-80C387DDE65A},Active Trail,0.00100004711191836
+14259,SP2293, ,SP,South Park,South Park,,,,,,,,0.36363394,,,,,,,{70A9525A-56D8-4146-8D6C-1B5F1F4B74B2},Active Trail,0.00556672371640071
+14260,SP2294, ,SP,South Park,South Park,,,,,,,,0.27757609,,,,,,,{925772FA-E299-461C-947A-F520566F3848},Active Trail,0.00466081604044432
+14261,SP2522, ,SP,South Park,South Park,,,,,,,,0.00629684,,,,,,,{24B28AD8-9A06-427E-B364-8E6384DF99A8},Active Trail,0.000115663134805793
+14262,SP2523, ,SP,South Park,South Park,,,,,,,,0.09961584,,,,,,,{77C6EF09-6D11-4AED-942D-7453FBBC8C3C},Active Trail,0.00179863921335916
+14263,SP2524, ,SP,South Park,South Park,,,,,,,,0.13252986,,,,,,,{87BFEDC4-FCDE-4E44-991A-C36F3A243298},Active Trail,0.00232446112439847
+14264,SP2525, ,SP,South Park,South Park,,,,,,,,0.00678713,,,,,,,{8080FEDA-2A63-4FE6-8014-36023EB7322D},Active Trail,0.000113476725144639
+14265,SP2528, ,SP,South Park,South Park,,,,,,,,0.02026536,,,,,,,{647DE5CD-A64C-4C37-BD68-C28BD98C7D64},Active Trail,0.000342188791747063
+14266,SP2531, ,SP,South Park,South Park,,,,,,,,0.04166497,,,,,,,{8F7B102C-F26A-4A1A-B99C-616D86250751},Active Trail,0.000651551452244701
+14267,SP2532, ,SP,South Park,South Park,,,,,,,,0.08878561,,,,,,,{EF593F52-88EA-409E-A8FC-C05A63833744},Active Trail,0.00158209971019323
+14268,SP2656, ,SP,South Park,South Park,,,,,,,,1.14703173,,,,,,,{DD57785A-4A1F-447D-8706-AAD7875BCD03},Active Trail,0.0186085320953884
+14269,SP2659,Verify/Remove if trail has disappeared,SP,South Park,South Park,,,,,,,,0.09162846,,,,,,,{BC864034-396E-48AA-948B-70DFFCAB7A09},Closed,0.00162608479353763
+14270,SP25652,Overgrown - Not Visibke - Delete,SP,South Park,South Park,,,,,,,,0.11396786,,,Easy,,Dirt,,{A54C5460-79B4-4285-8282-10B36DB580FB},Closed,0.00197003288434476
+14271,SP25653, ,SP,South Park,South Park,,,,,,,,0.11569637,,,Moderate,,Dirt,No,{D2816B06-4A25-494A-A4EB-F9F986DE3E7B},Closed,0.00203478635394605
+14272,SP2662, ,SP,South Park,South Park,,,,,,,,0.40013614,,,,,,,{660C91B0-81C2-44E6-AD40-570385CE1AF0},Active Trail,0.00652938744306923
+14273,SP2784, ,SP,South Park,South Park,,,,,,,,0.02836205,,,,,,,{5D3E916A-DB0C-4DF0-8CDA-6A70CEAC9E1A},Active Trail,0.000458696114351829
+14274,SP25656, ,SP,South Park,South Park,,,,,,,,0.02550083,,,Easy,Connector,Dirt,No,{4D97B80F-0336-4A22-901C-12D04DCE7487},Closed,0.000476269383787748
+14276,SP2941,Gravel or Paved Trail/Road,SP,South Park,South Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,2.24792949,,,Moderate,Paved Loop,Asphalt,No,{3FF71F39-C95C-469F-ABCE-BE9CB88A8828},Active Trail,0.0364282704648634
+14277,SP6217,Red,SP,South Park,South Park,Red,RD,Red, , , ,http://apps.alleghenycounty.us/GIS/REDbase.png,2.22121021,,,Easy-Moderate,Loop,,,{8F4FE9B7-951E-42AC-A834-54E3ACD2E77E},Active Trail,0.0380793056021722
+14278,SP6221, ,SP,South Park,South Park,,,,,,,,0.03742263,,,,,,,{2633FACC-A429-4D72-989D-537E9E204252},Active Trail,0.000660296927631584
+14279,SP25662, ,SP,South Park,South Park,,,,,,,,0.27611773,,,,,Dirt,No,{51166492-7DAD-4324-A420-06D0AC5F8E4C},Active Trail,0.00422956188114067
+14280,SP6211, ,SP,South Park,South Park,,,,,,,,0.01683209,,,,,,,{9D6E24A0-5DB4-4641-B100-BEF24E44E2DF},Active Trail,0.000299523890760712
+14281,SP6210, ,SP,South Park,South Park,,,,,,,,0.180639,,,,,,,{F4C9D094-0B5C-42DD-B9E0-27A1C21700DD},Active Trail,0.00294687245850274
+14282,SP25665,Orange,SP,South Park,South Park,Orange,OR,Orange,,,,http://apps.alleghenycounty.us/GIS/ORANGEbase.png,2.3899616,,,Moderate,Loop,Dirt,,{2B7E1A1A-D3AC-4D14-B811-B9F7895FC872},Active,0.0401039201445042
+14283,SP25666,Decommissioned Trail,SP,South Park,South Park,,,,,,,,0.16409853,,,,,,,{550051B5-16FC-4E76-BF48-F40F54E6F0DE},Closed,0.00258662501939418
+14284,SP25667,Decommissioned Trail,SP,South Park,South Park,,,,,,,,0.07660515,,,,,,,{37F9A0F7-4D12-41DE-84C6-38EB3153B32D},Closed,0.00136621014583891
+14285,SP2286, ,SP,South Park,South Park,,,,,,,,0.87341199,,,,,,,{ECE56121-25D2-494D-A580-0C616A7918BE},Active Trail,0.0141333682089549
+14286,SP25669,,SP,South Park,South Park,,,,,,,,0.36914769,,,,,,,{8A98F990-8F67-477B-AEE3-EE17A044BC98},Active,0.00587523129564328
+14287,SP25670,,SP,South Park,South Park,,,,,,,,0.19602065,,,,,,,{C0B8DC07-5B53-4B0A-B995-41D5F143DB63},Active,0.00311233008822974
+14288,SP13860,,SP,South Park,South Park,,,,,,,,0.06598664,,,,,,,{42269397-98B3-45DA-ABAD-BECA97F357F6},Active,0.00115594696835985
+14289,SP13837,,SP,South Park,South Park,,,,,,,,0.28322444,,,,,,,{0509623B-8307-4BDE-910C-38CCDC292511},Active,0.00427291015133581
+14290,SP13853,,SP,South Park,South Park,,,,,,,,0.02150323,,,,,,,{C9BAB7DC-5DAB-4D0C-B9E9-BAD1DA9128C7},Active,0.000370898598655167
+14291,SP13855,,SP,South Park,South Park,,,,,,,,0.02578959,,,,,,,{CF39ED43-5895-4C83-AB77-CB2993FC0EF3},Active,0.000387399127104065
+14292,SP13892,,SP,South Park,South Park,,,,,,,,0.02185063,,,,,,,{E422EFC5-BC8F-49D7-880B-4D1F419F8738},Active,0.000400095391676229
+14293,SP25677,,SP,South Park,South Park,,,,,,,,0.37721922,,,,,,,{0BD23E2F-90DA-4B58-A374-DFBF9D7DDD1F},Active,0.00564532154988928
+14294,SP13842,,SP,South Park,South Park,,,,,,,,0.01022874,,,,,,,{A9B2AE12-77C3-4D57-8A0C-B5B1B822BDAE},Active,0.000178284609900008
+14295,SP13843,,SP,South Park,South Park,,,,,,,,0.04597115,,,,,,,{F1D01527-991C-4F1F-BC48-7FF0E6D35F7F},Active,0.000771167715586211
+14296,SP13864,,SP,South Park,South Park,,,,,,,,0.0640436,,,,,,,{22BBAB70-AD1D-4E93-B5EF-FFAD42D08B2C},Active,0.00106939265870574
+14297,SP13865,,SP,South Park,South Park,,,,,,,,0.02210568,,,,,,,{405B6C57-CFC0-4EFF-8119-F2918E5344B1},Active,0.000371742884533086
+14298,SP25682,,SP,South Park,South Park,,,,,,,,0.04837418,,,,,,,{E897ADE0-0F8F-4971-B297-9E6208CD382D},Active,0.000760016438886981
+14299,SP13867,,SP,South Park,South Park,,,,,,,,0.16659223,,,,,,,{1C084B37-B0F1-4D32-A7A9-E767EB2DE142},Active,0.00276855895364804
+14300,SP13871,,SP,South Park,South Park,,,,,,,,0.01418666,,,,,,,{EDE004F5-D30C-46BA-BA52-77B546C0AF08},Active,0.000213365464097748
+14301,SP13899,,SP,South Park,South Park,,,,,,,,0.00481522,,,,,,,{C3ED43DB-A3B3-463A-9B06-9AD4911662F8},Active,8.78722692432927e-05
+14302,SP13890,,SP,South Park,South Park,,,,,,,,0.03517429,,,,,,,{E2050A88-F0F9-4787-AE0A-C153F153632D},Active,0.000582811434709454
+14303,SP13814,,SP,South Park,South Park,,,,,,,,0.02195335,,,,,,,{0BF37F4F-0733-4DD1-A2F8-8076864D8A79},Active,0.000354968105381491
+14304,SP13819,,SP,South Park,South Park,,,,,,,,0.02518031,,,,,,,{B5F35238-3B1C-40FD-9473-37C5B7F82DFA},Active,0.000445766413322475
+14305,SP13822,,SP,South Park,South Park,,,,,,,,0.01327873,,,,,,,{62908824-365F-4E32-8F52-6E39DB0030B3},Active,0.000229098718242281
+14306,SP13823,,SP,South Park,South Park,,,,,,,,0.21434922,,,,,,,{1E920D8A-A7E7-4286-A0AE-E34AC44956A2},Active,0.00324088134553126
+14307,SP13824,,SP,South Park,South Park,,,,,,,,0.05583975,,,,,,,{85E99542-7CD3-4473-AFBE-233290762BA6},Active,0.000988182436857101
+14308,SP13825,,SP,South Park,South Park,,,,,,,,0.0296244,,,,,,,{B5D14B13-8613-4CE8-A7E4-BC148104A7FF},Active,0.000471760900745432
+14309,SP13826,,SP,South Park,South Park,,,,,,,,0.03747542,,,,,,,{FDEFE19E-CFD1-47A0-8F2D-48D58FA24D39},Active,0.000579606676096482
+14310,SP13828,,SP,South Park,South Park,,,,,,,,0.12293364,,,,,,,{58104A78-1C4D-45EA-BE15-D74E878A66B9},Active,0.00194250236360442
+14311,SP13829,,SP,South Park,South Park,,,,,,,,0.01624182,,,,,,,{56FC8641-BBF7-4908-8257-CA7D2FB2ACB1},Active,0.000270650080320419
+14312,SP13831,,SP,South Park,South Park,,,,,,,,0.02701784,,,,,,,{B9BC4640-0DDB-4BAA-96C9-54E3CD843925},Active,0.000424250698409987
+14313,SP13836,,SP,South Park,South Park,,,,,,,,0.01502908,,,,,,,{BDFD5072-D3DE-4699-BB9F-9F03CFE853E4},Active,0.000251214181061458
+14314,SP13838,,SP,South Park,South Park,,,,,,,,0.02341303,,,,,,,{4AF05E13-321D-4B0E-8146-F1E38AB2EFF5},Active,0.000434754837242558
+14315,SP13880,,SP,South Park,South Park,,,,,,,,0.0080841,,,,,,,{4A76F014-28B3-4C7B-8C16-F5228621C2F6},Active,0.000153038991246377
+14316,SP13862,,SP,South Park,South Park,,,,,,,,0.05725239,,,,,,,{5C1F5CC8-94E5-4D7A-8E73-B4B69BB12E87},Active,0.000896841931901982
+14317,SP13863,,SP,South Park,South Park,,,,,,,,0.03127554,,,,,,,{C35C00EE-9C58-4876-8BAC-31F302F0D750},Active,0.000515149704965319
+14318,SP13246,,SP,South Park,South Park,,,,,,,,0.36167105,,,Moderate,Connector,Dirt,,{2CFC08CA-587E-4E85-A92C-EF031E6732DD},Active,0.00592069546593892
+14319,SP13816,,SP,South Park,South Park,,,,,,,,0.16225341,,,,,,,{2E6B80DA-105A-4147-AA8A-D4D7DA790936},Active,0.00247382594602414
+14320,SP13821,,SP,South Park,South Park,,,,,,,,0.04432246,,,,,,,{15B63EF0-DC03-4DF9-91C6-3635ABF19358},Active,0.000723802656867484
+14321,SP13251, ,SP,South Park,South Park,,,,,,,,0.02644892,,,Difficult,Connector,Dirt,,{B0EDFDE2-1FCB-4E3F-98F0-E724641894A2},Active,0.000412858897733532
+14322,SP445, ,SP,South Park,South Park,,,,,,,,0.13859846,,,Easy-Moderate,Access,,,{5518A37E-42BA-4315-945A-7173A3CC028A},Active,0.00213291450340024
+14323,SP25709,Gravel or Paved Trail/Road - Decommissioned,SP,South Park,South Park,<Null>,<Null>,,,,,<Null>,0.1465055,,,Easy,Access,Crushed Limestone,Yes,{0AF2B225-3EAA-4946-91C3-3ACD434B79AF},Closed,0.00241131863239962
+14324,SP25710,,SP,South Park,South Park,,,,,,,,0.06854979,,,Easy-Moderate,Access,Dirt,,{17AFFCD2-96D5-430A-8C77-8BC3F45ED068},Active,0.00105705185684578
+14325,SP25711,,SP,South Park,South Park,,,,,,,,0.02209785,,,Easy,Connector,Dirt,,{5F255BB7-5096-4E48-B869-1F15020AB55F},Active,0.000372599969871203
+14326,SP25713,,SP,South Park,South Park,,,,,,,,0.03780672,,,Easy,Connector,Dirt,,{02DC25A4-C1A2-474A-BCAA-A7AC914756DB},Active,0.00060489928531655
+14327,SP25714,,SP,South Park,South Park,,,,,,,,0.08273943,,,Easy-Moderate,Connector,Dirt,,{DE25D737-36EA-4FF8-B2AE-82EBAFAFCBF3},Active,0.00140475202095405
+14328,SP25715,,SP,South Park,South Park,,,,,,,,0.0209002,,,,Connector,Dirt,,{6A596264-9FF1-499E-A76E-DE7D210B9A3F},Active,0.000386790155074148
+14329,SP25716,,SP,South Park,South Park,,,,,,,,0.03727944,,,Easy-Moderate,Connector,Dirt,,{78A7D677-4D10-42F1-9BFB-58C3D34ADB0E},Active,0.000639637974214575
+14330,SP25717,,SP,South Park,South Park,,,,,,,,0.03518389,,,,,,,{580D8ECA-E6E5-4169-85E5-A4D945183E5D},Closed,0.000559633060819673
+14331,SP13856,,SP,South Park,South Park,,,,,,,,0.01319935,,,,,,,{B275F3D5-3EB1-447D-B2F9-D97ACE1726F5},Active,0.000216511714792936
+14332,SP25719,,SP,South Park,South Park,,,,,,,,0.16960744,,,,,,,{07553785-C22B-4BCA-8801-0554EC651553},Active,0.00274802909521019
+14333,SP25720,,SP,South Park,South Park,,,,,,,,0.01206868,,,,Connector,,,{1C915D82-539C-4470-A079-226DC0646774},Active,0.000220501112189367
+14334,SP25721,,SP,South Park,South Park,,,,,,,,0.01967527,,,Easy,Connector,,,{3F3A9C22-665D-483C-B7CC-A1C5204219B4},Active,0.000314062115348006
+14335,SP25722,,SP,South Park,South Park,,,,,,,,0.00610794,,,,,,,{303EBA95-FCAA-45CE-ADEF-97DA99FF5A19},Closed,0.00011460851502383
+14336,SP25723,,SP,South Park,South Park,,,,,,,,0.02226998,,,,,,,{B8DFBEB5-E70B-4368-8218-FEECD9210155},Closed,0.000354875899639513
+14337,SP25724,,SP,South Park,South Park,,,,,,,,0.01513175,,,,,,,{46501FCA-58F2-4345-A97A-1A2A37A8EC6A},Closed,0.000255775761759274
+14338,SP13848,,SP,South Park,South Park,,,,,,,,0.01949893,,,,,,,{DE76F43E-3050-484B-8104-108DA8379B65},Active,0.000296966058404947
+14339,SP25726,,SP,South Park,South Park,,,,,,,,0.25463621,,,,,,,{B0AB09D7-0D6C-4FD4-BD1F-9AD4728D39E8},Active,0.00393203682742837
+14340,SP7739, ,SP,South Park,South Park,,,, , , ,<Null>,0.07000936,,,Difficult,Loop,,,{B3814641-6DF6-43AD-BD0F-40E8A46DD392},Active Trail,0.00109188729757191
+14341,SP25734, ,SP,South Park,South Park,<Null>,<Null>,,,,,<Null>,0.42826616,,,Moderate,Connector,Dirt,,{BB38824F-4C08-4C8F-B31F-B0C84340CF67},Active,0.00762796224946702
+14342,SP814,Old White,SP,South Park,South Park,<Null>,<Null>,,,,,<Null>,3.77516541,,,,,,No,{B955C0E6-527E-49F7-980B-6AA1FC621077},Active,0.0615874337626617
+14343,SP25740, ,SP,South Park,South Park,<Null>,<Null>,,,,,<Null>,0.271133,,,Moderate,Connector,,,{2E9145E6-EADE-4809-831A-A321D14E1C51},Active,0.00479091154108029
+14344,SP25744, ,SP,South Park,South Park,<Null>,<Null>,, ,, ,<Null>,0.10508598,,,Moderate,Loop,,,{04AA5D01-7139-41D1-8DB8-11B1AFC81F56},Active Trail,0.00192152493827864
+14365,BP28378,Green,BP,Boyce,Boyce Park,Green,GN,Green, , , ,http://apps.alleghenycounty.us/GIS/GREENbase.png,0.04954357,,,Easy-Moderate,Loop,Dirt,,{6434127E-5EA7-4514-A6FC-5431563429B2},Active,0.000835683208423157
+14366,BP28379,Green,BP,Boyce,Boyce Park,Green,GN,Green, , , ,http://apps.alleghenycounty.us/GIS/GREENbase.png,2.29254345,,,Easy-Moderate,Loop,Dirt,,{AA85A151-12C6-42FC-B842-4B0AEA9B445C},Active,0.0386183134933466
+14367,BP28778,,BP,Boyce,Boyce Park,<Null>,<Null>,, ,, ,<Null>,0.23126231,,,Easy-Moderate,,,,{B76E6F02-16A8-4500-AE7A-822283BC448E},Closed,0.00351882013085016
+14368,BP13199,White with Blue Dot,BP,Boyce,Boyce Park,White with Blue Dot,WT/BL Dot,White,,Blue,,http://apps.alleghenycounty.us/GIS/WHITEbase_BLUEdot.png,0.60964345,,,Easy-Moderate,Point to Point,Dirt,No,{8ED119B7-24B7-4B5A-8ACA-034C738C2A28},Active,0.00980186682121505
+14369,BP28780,,BP,Boyce,Boyce Park,<Null>,<Null>,, ,, ,<Null>,0.07030569,,,Easy-Moderate,,,,{70719633-EA12-4844-8F27-C7133E3AC00D},Closed,0.00111270072939862
+14395,BP5090, ,BP,Boyce,Boyce Park,,,,,,,,0.01473562,,,,,,,{5F799F92-9139-4BAB-9046-80BED790D3BF},Closed,0.000278792529390714
+14396,BP36050, ,BP,Boyce,Boyce Park,,,,,,,,0.13732252,,,,,,,{0DEA3B69-5364-4390-8024-7F84BE8760D8},Active,0.00252205053262327
+14397,BP36855,,BP,Boyce,Boyce Park,,,,,,,,0.02634199,,,Easy,Connector,Dirt,,{C1E832AE-27E7-4FD1-9405-F06143E76474},Active,0.000465030368483257
+14398,BP36856, ,BP,Boyce,Boyce Park,,,,,,,,0.31059006,,,Moderate,Access,Dirt,,{C624A739-721C-4669-A3BC-48093CCD2005},Active,0.00502932196221403
+14399,BP36858,,BP,Boyce,Boyce Park,,,,,,,,0.04696739,,,Easy,Connector,Dirt,No,{2979355D-98EC-4A1E-840F-2305387DA66C},Closed,0.000775962748980267
+14400,BP37660,Hidden-Closed/Blocked - Green,BP,Boyce,Boyce Park,,,,,,,,0.01775307,,,Easy,,,,{389DA2DA-1C9D-4412-8099-B1041D6CC935},Closed,0.000331927063564511
+14401,BP37661,Hidden-Closed/Blocked - Blue/Yellow Dot,BP,Boyce,Boyce Park,,,,,,,,0.00845296,,,,,,,{6DBF39E4-5A66-407B-ADD4-61DD0005EC8F},Closed,0.000154780273845161
+14405,SP39659,,SP,South Park,South Park,,,,,,,,0.03004738,,,Easy,Connector,Dirt,No,{33164379-9391-43C8-B527-7FB23758709D},Closed,0.000542471346051668
+14406,SP39660,Check - Still Visble? - Delete?,SP,South Park,South Park,,,,,,,,0.00383692,,,,,,,{5D0E6A59-2F26-4A5D-9E39-0F8964166BF8},Closed,5.6050999452712e-05
+14407,SP39664,,SP,South Park,South Park,,,,,,,,0.01939892,,,,Connector,,,{EB94C790-6492-434B-8806-7F2BD91F290F},Closed,0.000337058840338101
+14408,SP39665,,SP,South Park,South Park,,,,,,,,0.04349925,,,,Connector,Dirt,,{FFBAB3AE-37B5-4A10-8430-12B910757F33},Active,0.000752412851172011
+14409,SP39666,Workaround-Tree Blockage,SP,South Park,South Park,,,,,,,,0.04287625,,,Moderate,Connector,Dirt,No,{5635D8AC-4318-4896-819F-217604D9FB49},Closed,0.000717882853153823
+14410,SP40056,,SP,South Park,South Park,,,,,,,,0.0254428,,,Moderate,Connector,Dirt,No,{A367035D-808F-4659-B9EA-51AB4097EFAB},Closed,0.000445329696019651
+14415,BP42071,Yellow Loop,BP,Boyce,Boyce Park,Yellow,YL,Yellow,,,,http://apps.alleghenycounty.us/GIS/YELLOWbase.png,1.03390412,,,Moderate,Loop,,No,{75769F38-163D-41F4-9B2C-51A2F6A60444},Active,0.0170585650090795
+14416,BP42072, ,BP,Boyce,Boyce Park,<Null>,<Null>,,,,, ,0.00840547,,,,Connector,Dirt,,{0DE465EB-3F4A-49F2-B919-06692975E8D0},Active,0.000127324084623243
+14417,BP5124,Decommissioned Yellow with Red Dot,BP,Boyce,Boyce Park,<Null>,<Null>,,,,,<Null>,0.27238747,,,,,,,{60F530C3-4AF9-4E84-A0DC-0BAFBC5565E4},Closed,0.0045543896926021
+14418,BP42477,Decommissioned Yellow,BP,Boyce,Boyce Park,,,,,,,,0.04490468,,,,,,,{284F76C1-07B7-4C3B-B288-824A519BD230},Closed,0.0006845530582416
+14419,BP42481,Blue Loop,BP,Boyce,Boyce Park,Blue,BL,Blue,,,,http://apps.alleghenycounty.us/GIS/BLUEbase.png,1.41768172,,,Moderate,Loop,,No,{D4CA4230-762B-4511-8147-23AD7023ACA5},Active,0.0222399559735524
+14420,BP42484,Blue Loop Access,BP,Boyce,Boyce Park,Blue,BL,Blue,,,,http://apps.alleghenycounty.us/GIS/BLUEbase.png,0.10038823,,,Easy,Access,Dirt,No,{A14A5046-70CC-4206-9CBC-AE691608DA72},Active,0.00156416203197336
+14428,SP43345, ,SP,South Park,South Park,<Null>,<Null>,,,,,<Null>,0.69989797,,,,,,No,{4025EA53-88D9-4031-8F8C-429F11F97D5C},Active,0.011705493354209
+14429,SP43348, ,SP,South Park,South Park,,,,,,,,0.32613518,,,,,Dirt,,{75CD81BF-1844-4DF0-AB79-D19EDB8E7C92},Active,0.00539011927779269
+14430,SP43358, ,SP,South Park,South Park,<Null>,<Null>,,,,,<Null>,0.34842752,,,,,,No,{740329A4-9E60-440F-B9E2-E5312A193CA8},Active,0.00604130149188741
+14431,SP43361, ,SP,South Park,South Park,,,,,,,,0.12403653,,,Moderate,,Dirt,No,{966BDA8F-5F89-406F-86DF-DA2E7FD0CE83},Closed,0.00201401163972651
+14432,SP43362, ,SP,South Park,South Park,,,,,,,,0.34550795,,,,,Dirt,No,{F9B74B21-F7D0-46BE-B475-2F55A538FF97},Active,0.0054719708167022
+14433,SP43363, ,SP,South Park,South Park,,,,,,,,0.15538236,,,,,Dirt,No,{188C675F-B9D2-47B9-81B1-E662CD81917B},Active,0.00234416994257767
+14434,SP43367, ,SP,South Park,South Park,,,,,,,,0.02108535,,,,,Dirt,,{9AF3D841-316B-42B3-A92A-C3B72210E088},Active,0.000355209744823328
+14435,SP2258,Verify/Remove if trail has disappeared,SP,South Park,South Park,,,,,,,,0.07213021,,,,,,No,{ABCB6705-D8BA-4633-8F10-00F8DF283D46},Closed,0.00121451699986797
+14436,SP43370,Verify/Remove if trail has disappeared,SP,South Park,South Park,,,,,,,,0.008099,,,,,,,{15CC8285-0B41-4F8C-BBCD-D908022A1CF9},Closed,0.000142285929110966
+14437,SP43372,Verify/Remove if trail has disappeared,SP,South Park,South Park,<Null>,<Null>,,,,,<Null>,0.0283617,,,,,,,{ACCFD6DA-242A-4120-B8D3-B706FD2E5AF7},Closed,0.000470058214758204
+14438,BP43374,,BP,Boyce,Boyce Park,,,,,,,,0.26556621,,,Easy-Moderate,Connector,Dirt,No,{36B45E2C-2085-499C-A587-0FF3A80273F5},Active,0.00404018638125044
+14439,BP43376,,BP,Boyce,Boyce Park,,,,,,,,0.03128435,,,Easy-Moderate,Access,Dirt,No,{671FB1E8-92BF-4636-9095-737FACA803CF},Active,0.000553595625392613
+14440,BP43378,,BP,Boyce,Boyce Park,,,,,,,,0.07489693,,,Easy,,Dirt,No,{682CE017-EFB4-427C-8A01-2A44529DAFEB},Closed,0.0011794089151732
+14441,BP43379,,BP,Boyce,Boyce Park,<Null>,<Null>,,,,,<Null>,0.37937099,,,Moderate,,Dirt,No,{75CC8A87-3A5E-4A45-B892-94013FFE3422},Closed,0.00609983075655274
+14442,BP43381,,BP,Boyce,Boyce Park,<Null>,<Null>,,,,,,0.27865528,,,Moderate-Difficult,Connector,Dirt,No,{0F285857-D394-4DF6-A9BF-1ABDAC636A21},Closed,0.00444965578210782
+14443,SP43745, ,SP,South Park,South Park,,,,,,,,0.04777936,,,,,Dirt,No,{4022578E-7AD9-45CC-9830-3BC07992198E},Active Trail,0.000706911167823159
+14444,SP44152,Work-around downed tree,SP,South Park,South Park,,,,,,,,0.02804907,,,Easy,Connector,Dirt,No,{3C06C3A7-BE89-4DA5-8640-711961F6D4B1},Closed,0.000453600014238906
+14445,SP44156, ,SP,South Park,South Park,,,,,,,,0.99063187,,,,,Dirt,No,{96B1FA0B-96FE-4F0D-A136-62614AB72998},Active,0.0173048078393004
+14446,SP44547, ,SP,South Park,South Park,,,,,,,,0.00668778,,,Easy,Connector,Dirt,,{40BF9E9C-61A2-458E-9C39-7383BA5AC490},Active,0.00012320826405019
+14447,SP44548, ,SP,South Park,South Park,,,,,,,,0.11385328,,,Moderate,Connector,Dirt,No,{80AE1C14-8EF6-42E3-A662-3A7A0AB4BF85},Active,0.00203835945502931
+14448,SP44549, ,SP,South Park,South Park,,,,,,,,0.08622723,,,Easy-Moderate,Connector,Dirt,No,{222565F9-444A-439D-B128-65FCA55BC6EF},Active,0.00146533993364469
+14449,SP44550,Old Fairground Loop - Replaced  May 2022,SP,South Park,South Park,,,,,,,,0.08751733,,,,,,,{24DB880A-DCEA-4C1C-871C-FCCADA966313},Closed,0.0014728548804753
+14450,BP44970,Old White with White Cap - De-blazed / replaced,BP,Boyce,Boyce Park,,,,,,Black,,0.04067176,,,Moderate,Access,Dirt,No,{2B1AC984-A6CA-427F-81ED-4FE27558E7CE},Closed,0.000608925731808614
+14451,BP44972,White with White Cap,BP,Boyce,Boyce Park,White with White Cap,WT/WT Cap,White,White,,,http://apps.alleghenycounty.us/GIS/WHITEbase_WHITEcap.png,0.02104261,,,Easy-Moderate,Access,Dirt,No,{D71EED82-9F1D-4D7F-B044-D227FC35CEEE},Active,0.000347203060259878
+14452,SP45371, ,SP,South Park,South Park,,,,,,,,0.01389539,,,Easy,,Dirt,No,{4088AF01-2F75-47F7-87BA-87991BE1D843},Active,0.000220943034208796
+14453,SP45385,,SP,South Park,South Park,,,,,,,,0.14934538,,,Easy,Access,Dirt,No,{690B24C3-2B77-45E3-884A-2168C567B852},Active,0.00259252323117566
+14457,BP46653,,BP,Boyce,Boyce Park,,,,,,,,0.11332257,,,Easy,Access,Dirt,,{1D2F4EBF-FE18-49A5-9AEA-971FD5BEA087},Active,0.00194098476951938
+14458,BP46654,,BP,Boyce,Boyce Park,,,,,,,,0.0082888,,,Easy,Access,Dirt,No,{70CD3507-B877-4433-A5CB-BEC4677FE5EF},Active,0.000145678794786058
+14459,SP46655,,SP,South Park,South Park,,,,,,,,0.01714645,,,Easy,Access,Dirt,No,{027C417F-438B-4E51-BDE8-D9C2BA31F4F9},Active,0.000251541047758128
+14460,SP46656,,SP,South Park,South Park,,,,,,,,0.02327639,,,Easy,Connector,Dirt,No,{396C8EA3-CF19-4D88-8FA2-9171DF5899E4},Active,0.000399518590038966
+14461,SP46657,,SP,South Park,South Park,,,,,,,,0.04718844,,,Easy-Moderate,Connector,Dirt,No,{5BE57E41-0812-4ACA-8AC3-15ECD7B2AD99},Closed,0.000759359149271158
+14462,SP46658,,SP,South Park,South Park,,,,,,,,0.02926178,,,Easy,Access,Dirt,No,{10B215C3-9966-437C-88B2-0B07FFDB8EF1},Active,0.000549545310484194
+14470,SP46676, ,SP,South Park,South Park,,,,,,,,0.00556062,,,Easy,Connector,Dirt,,{1072077D-2BE4-4818-9E9B-DBA30A668954},Closed,0.000104263691729622
+15211,DL49951,Purple with Black Dot,DL,Deer Lakes,Deer Lakes Park,Purple with Black Dot,PL/BK Dot,Purple,,Black,,http://apps.alleghenycounty.us/GIS/PURPLEbase_BLACKdot.png,0.25030092,,,Easy-Moderate,Access,Dirt,No,{E11A1E7C-19F6-48AE-BA74-5E5E61DCF574},Active,0.00415823173652568
+15212,DL49952,Disk Golf Course Trail,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.08916523,,,,,Dirt,No,{0F9D6CFB-9A54-48BB-B480-32FBCDB9027C},Active,0.00141542007076996
+15213,DL49954, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.02570351,,,Easy-Moderate,,Dirt,No,{200C8297-70D3-4760-A2D5-D0D1E050FDF9},Closed,0.000427506080595979
+15214,DL2471, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.38028379,,,,,,,{53842E60-219D-4CAC-A43F-B4C4C59ECA55},Active Trail,0.00653338017127087
+15215,DL2472, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.09612551,,,,,,,{AEAB709D-A8A3-447B-B524-05FB070A7853},Active Trail,0.00150606010970424
+15216,DL2473, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.44720205,,,,,,,{34CFBDA2-16FF-4A18-B8D8-F7D1E0E35CCC},Active Trail,0.00748004536093778
+15217,DL2474, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.03329783,,,,,,,{EE6E0D2F-FE50-45CD-9AD8-A52022B16A3F},Active Trail,0.000626723624115474
+15218,DL2475, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.05316464,,,,,,,{1EA02905-5753-45F6-BD3A-0473940B779A},Active Trail,0.000906216826198047
+15219,DL2476, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.01645208,,,,,,,{10DC52E8-CDE4-4D21-B29A-C1F8E82A2405},Active Trail,0.000271427600640497
+15220,DL2477, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.07459624,,,,,,,{BB0EF8FE-8A9E-4AF7-AE5B-C1D18F76134C},Active Trail,0.0011069130233859
+15221,DL2478, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.0370741,,,,,,,{5E7BD74D-AA51-4A75-B08D-9ADE1B6A48A5},Active Trail,0.000668730491692314
+15222,DL2479, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.05725716,,,,,,,{662154A9-54FF-4A13-AA41-49E6E978ED3B},Active Trail,0.000850284991595059
+15223,DL2480, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.02146298,,,,,,,{E87C113A-5B54-4302-A997-4E7870057004},Active Trail,0.00036669571231749
+15224,DL2481, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.00554255,,,,,,,{576B5805-CC47-4E2B-B80A-5FA36B40BFE5},Active Trail,0.000104172388891282
+15225,DL2482, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.0633312,,,,,,,{E7F2EC01-C4B2-43B9-8D75-256A7871FD2E},Active Trail,0.000945437336104747
+15226,DL2483, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.03339787,,,,,,,{E9EAE55E-0AFB-4502-B621-1B8D60316201},Active Trail,0.000606773898428056
+15227,DL2484, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.03744892,,,,,,,{6D7CEF74-0023-447B-856C-FF061FC7BF60},Active Trail,0.000594007484095294
+15228,DL2485, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.01931096,,,,,,,{6D068C3A-A5DB-4DDA-918D-7546E485352E},Active Trail,0.000361151450712787
+15229,DL2486, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.06984196,,,,,,,{60104038-348E-4FDD-8C59-F0A2C906ACAE},Active Trail,0.00116008354926251
+15230,DL2487, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.24349376,,,,,,,{9F2ACA0E-423E-4FB7-BC58-1282B44B72FB},Active Trail,0.00383994883037904
+15231,DL2488, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.04502387,,,,,,,{81A4D2A3-FF01-40EA-ADF5-AA3B126345AA},Active Trail,0.000750987669359875
+15232,DL2489, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.16150189,,,,,,,{672BC10F-EEFB-45D0-9B5A-DF765AF00F5A},Active Trail,0.00275380478668609
+15233,DL2490, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.05637074,,,,,,,{EBC8736A-928E-4362-994D-C97D24F758AF},Active Trail,0.000958072046434163
+15234,DL2491, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.0497873,,,,,,,{3E40B47A-EB28-4152-96C7-20CF678D41CC},Active Trail,0.000751100901628465
+15235,DL2492, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.10908116,,,,,,,{2DFDAA4B-D982-4189-ADE6-8954F14D6D41},Active Trail,0.00197695940604182
+15236,DL2493, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.07693478,,,,,,,{BF2D0BE0-77D8-48DD-8165-9F46B9433F1A},Active Trail,0.0012647584392254
+15237,DL2494, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.03457314,,,,,,,{E5E83174-3A75-4EA5-9D34-2FA60967E37E},Active Trail,0.000542872757974831
+15238,DL2496, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.05642841,,,,,,,{2302C2E0-3C9F-4E39-A0B8-E94B560E943B},Active Trail,0.000939505991020814
+15239,DL2497, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.03412712,,,,,,,{4F78DFC2-19F2-4BBA-B223-D540EF93F4B4},Active Trail,0.000541795786990914
+15240,DL2498, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.02279118,,,,,,,{045DA49C-2C75-40D5-8CA9-E2B40887EC12},Active Trail,0.000379852342528124
+15241,DL2499, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.01627275,,,,,,,{1285D159-F5AD-4641-B386-19812E2D71FA},Active Trail,0.000246490586071719
+15242,DL2500, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.00882085,,,,,,,{9A4075FA-7571-4E4E-8036-01284FC8C441},Active Trail,0.000165551641940773
+15243,DL2501, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.048972,,,,,,,{E2698BCF-795A-4F71-B811-0316DF974531},Active Trail,0.00081697755819767
+15244,DL2502, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.01022159,,,,,,,{CA5DBEF2-E67D-4C2C-A4DD-E940741C31B5},Active Trail,0.000187621325318925
+15245,DL2503, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.12140991,,,,,,,{D47F95E2-CF39-49B2-A7D7-7EA944053B6C},Active Trail,0.00225326712603123
+15246,DL2504, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.01651265,,,,,,,{E1C53007-2B33-4513-A528-F3028B55B6D4},Active Trail,0.000289542345536067
+15247,DL2505, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.00711574,,,,,,,{A2A61B70-3700-4C13-B5A1-37B480FA509B},Active Trail,0.000126408823115637
+15248,DL2506, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.02135637,,,,,,,{F971C295-4020-4D2A-8FA9-280414443B8B},Active Trail,0.00039470432909464
+15249,DL2508, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.01327533,,,,,,,{6C618E2B-5776-49EF-BB4B-BFD9A3D79DE8},Active Trail,0.000216412512588404
+15250,DL2509, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.05118925,,,,,,,{0C543AE1-10F4-4EB3-8EA1-27EDDA037630},Active Trail,0.000961513309174394
+15251,DL2510, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.05046888,,,,,,,{6FA14ED3-2BE5-4227-B130-A2A281F27349},Active Trail,0.000936600849494114
+15252,DL2511, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.03114111,,,,,,,{7A8725DC-153D-4E86-B136-7E6379512177},Active Trail,0.000478036440816224
+15253,DL2512, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.09441841,,,,,,,{FD23380B-4F65-49AB-A24C-F895BFF9DB9B},Active Trail,0.00144781827852801
+15254,DL2514, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.00801627,,,,,,,{9FE1DA03-610F-4A57-B437-4ABE589DAC98},Active Trail,0.000149802030072224
+15255,DL12746, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.0364774,,,,,,,{6A257EBD-8D89-4ACE-B3F2-22447DFC61BE},Closed,0.000577596972084419
+15256,DL2516, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.06030438,,,,,,,{BE1FB227-8AF4-4D5E-BF36-ACA5A0BCD934},Active Trail,0.000934798696529019
+15257,DL2517, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.27180427,,,,,,,{E4B46A88-1ED4-4EA7-9B3D-D87D593590D3},Active Trail,0.00483263554420187
+15258,DL2518, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.03400638,,,,,,,{945BAD02-BACE-4D51-8C16-E803AA7132DC},Active Trail,0.000619338976136512
+15259,DL2600, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.11354115,,,,,,,{A39F7497-B6A7-4B76-8FD0-6BD5A200AE1E},Active Trail,0.00192350957026792
+15260,DL2602, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.02388322,,,,,,,{8E1E5A57-9004-4E55-A41D-005183660385},Active Trail,0.000349602540008541
+15261,DL2604, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.07246162,,,,,,,{A8C6BFB8-D778-4A96-8CC2-A045E08D4139},Active Trail,0.0012331705154678
+15262,DL2606, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.02328089,,,,,,,{7CBAA657-6C76-4A57-AFB5-D2488F565BCF},Active Trail,0.00043154583675213
+15263,DL2761, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.15239419,,,,,,,{044D54AA-2838-4916-B7FD-DA61BDE826BE},Active Trail,0.00239899931671837
+15264,DL2762, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.08568952,,,,,,,{1A8DFD74-48D8-47B2-9270-1DD184416DEC},Active Trail,0.00140858592011425
+15265,DL2763, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.05446999,,,,,,,{A0BD86AF-FE01-4EED-82BF-58B80DFD66A7},Active Trail,0.000894727488175073
+15266,DL50585, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.17667021,,,Easy-Moderate,Connector,Dirt,No,{B39A625C-90C5-45EC-B522-958A3C59EDD5},Active,0.0028309278704508
+15267,DL2765, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.59070292,,,,,,,{7A07983E-5120-4288-B248-5A358C5948BB},Active Trail,0.00928991386199653
+15268,DL12811, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.32453772,,,,Access,,,{BDC1E68F-C963-4EB5-A669-BB559B6FCAFF},Active Trail,0.00539970008000311
+15269,DL2767, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.16110199,,,,,,,{7DD1501E-4A05-443A-A7A2-398A889A6980},Active Trail,0.00261861750811017
+15270,DL12813,Decomissioned Trail,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.7035779,,,,,,,{9F4F63BD-6CAA-49F5-8DC0-6A77160716EC},Closed,0.0122976954009487
+15271,DL2769, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.42795445,,,,,,,{FDBA8610-4312-4863-A97E-DCC12CC3BF14},Active Trail,0.00741589500802698
+15272,DL2770, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.76618506,,,,,,,{CE3DC0DC-FC4E-49E9-BFAB-2F63DDAFFC34},Active Trail,0.0133499213186174
+15273,DL12820,Decommisioned Purple with White Dot,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.05426911,,,Easy-Moderate,,Dirt,,{E875D4B8-CB9A-4B44-BA4C-4D61E580215E},Closed,0.000821103554318915
+15274,DL2821,Yellow with Purple Dot,DL,Deer Lakes,Deer Lakes Park,Yellow with Purple Dot,YL/PL Dot,Yellow, ,Purple, ,http://apps.alleghenycounty.us/GIS/YELLOWbase_PURPLEdot.png,0.10683599,,,Easy-Moderate,Connector,,,{0C93E84B-1F6C-4FDB-87C8-7EF84E557E18},Active Trail,0.00178802111741975
+15275,DL2822,Yellow with Black Dot,DL,Deer Lakes,Deer Lakes Park,Yellow with Black Dot,YL/BK Dot,Yellow, ,Black, ,http://apps.alleghenycounty.us/GIS/YELLOWbase_BLACKdot.png,0.25491031,,,Moderate,Connector,,,{5E8C37BF-903A-4E3A-9C07-D9442A0C8392},Active Trail,0.00422443691027921
+15276,DL2823,Yellow,DL,Deer Lakes,Deer Lakes Park,Yellow,YL,Yellow, , , ,http://apps.alleghenycounty.us/GIS/YELLOWbase.png,1.25441335,,,Easy-Moderate,Loop,,,{536545F7-B4EE-49BE-AF24-9FE5015CDB47},Active Trail,0.0208414366898234
+15277,DL12824,Orange with Blue Dot,DL,Deer Lakes,Deer Lakes Park,Orange with Blue Dot,OR/BL Dot,Orange,,Blue,,http://apps.alleghenycounty.us/GIS/ORANGEbase_BLUEdot.png,0.15046185,,,Easy-Moderate,Connector,Dirt,No,{73F60B1C-FC74-45BF-B7FF-A40050F32E03},Active,0.00251315974616902
+15278,DL2826,Green with Blue Dot,DL,Deer Lakes,Deer Lakes Park,Green with Blue Dot,GN/BL Dot,Green, ,Blue, ,http://apps.alleghenycounty.us/GIS/GREENbase_BLUEdot.png,0.02527674,,,Easy,Access,,,{AB83ED2C-FE35-45D8-B0B8-25BBEB596D9D},Active Trail,0.000478996819872857
+15279,DL2827,Red,DL,Deer Lakes,Deer Lakes Park,Red,RD,Red, , , ,http://apps.alleghenycounty.us/GIS/REDbase.png,1.84033076,,,Easy-Moderate,Loop,Dirt,,{AF2440C7-5DC9-460B-8358-C5DEB4516A9C},Active Trail,0.0311712507855778
+15280,DL2828,Blue with Black Dot Access to Blue Loop,DL,Deer Lakes,Deer Lakes Park,Blue with Black Dot,BL/BK Dot,Blue, ,Black, ,http://apps.alleghenycounty.us/GIS/BLUEbase_BLACKdot.png,0.02732194,,,Easy,Access,,,{F79233B7-D08C-4F81-830E-52B384B5FDA7},Active Trail,0.000450034749327564
+15281,DL2829,Green with Black Dot,DL,Deer Lakes,Deer Lakes Park,Green with Black Dot,GN/BK Dot,Green, ,Black, ,http://apps.alleghenycounty.us/GIS/GREENbase_BLACKdot.png,0.52434145,,,Moderate,Pt_to_Pt,,,{003C0DAE-7578-4305-96B7-8C2C0A761C99},Active Trail,0.00911377908119363
+15282,DL2831,Green with White Dot,DL,Deer Lakes,Deer Lakes Park,Green with White Dot,GN/WT Dot,Green, ,White, ,http://apps.alleghenycounty.us/GIS/GREENbase_WHITEdot.png,0.19661502,,,Easy-Moderate,Access,,,{A9E4881A-D18E-4361-B8D7-A8E6F15E272E},Active Trail,0.0030414529737932
+15283,DL2832,White,DL,Deer Lakes,Deer Lakes Park,White,WT,White, , , ,http://apps.alleghenycounty.us/GIS/WHITEbase.png,3.43614669,,,Moderate,Pt_to_Pt,,,{178BD552-9C2B-4573-A28A-E0A556907F78},Active Trail,0.0580293742214437
+15284,DL2835,Green with Red Dot,DL,Deer Lakes,Deer Lakes Park,Green with Red Dot,GN/RD Dot,Green, ,Red, ,http://apps.alleghenycounty.us/GIS/GREENbase_REDdot.png,1.12840884,,,Easy-Moderate,Loop,,,{8E5E0A22-5968-4FC0-97AF-FF517D2C15F0},Active Trail,0.0194477802014043
+15285,DL12856,Paved Access to Paved Trail,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.12154675,,,Easy,Paved Access,Asphalt,No,{3773BEBD-B26A-4EFB-80EC-7CF3751FEEF6},Active Trail,0.00202804451030055
+15286,DL2951,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.55819709,,,Easy-Moderate,Paved Service Road,Crushed Limestone,Yes,{CADFD3C2-5FB0-4043-B4C2-921D43ED457A},Active Trail,0.00956102480111514
+15287,DL13247, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.11121305,,,Easy-Moderate,Connector,Dirt,No,{75F270EE-A460-42E3-9B27-BEDF8DEFD049},Active,0.0019406817910031
+15288,DL7718,Orange,DL,Deer Lakes,Deer Lakes Park,Orange,OR,Orange, , , ,http://apps.alleghenycounty.us/GIS/ORANGEbase.png,1.48444873,,,Easy-Moderate,Loop,,,{C4F33033-700F-455C-921B-71655AF52E37},Active Trail,0.0241702828862952
+15289,DL426, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.37549375,,,Easy-Moderate,Access,,,{AB42F659-2481-47FC-AB50-5FA5582A0857},Active,0.00600067325687964
+15290,DL19925,,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.09564816,,,Easy,Access,Dirt,,{6BA241B9-E98E-470F-9E46-997872809258},Active,0.00165272041842997
+15291,DL19926,,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.20120926,,,Easy,Connector,Dirt,,{FF8604E6-7DDC-420F-B814-11E853B88D22},Active,0.00339991174855685
+15292,DL19927,,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.15018503,,,Easy,Connector,Dirt,,{0B8E890C-F278-4464-9D7E-48952BC5D21B},Active,0.00258407918775858
+15293,DL19928,,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.08449295,,,Easy,Connector,Dirt,,{02A64397-52F1-410F-B78E-5E48B7F43732},Active,0.00136566359329626
+15294,DL19930,,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.031158,,,Easy,Access,Dirt,,{88F70E36-2592-4C18-B9FC-BB38A0084F57},Active,0.000488507269565934
+15295,DL19931,,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.08260332,,,Easy,Connector,Dirt,,{29A810DF-9FC2-42FA-9781-9578191EA964},Active,0.00133852522651528
+15296,DL2925,,DL,Deer Lakes,Deer Lakes Park,<Null>,<Null>,,,,,<Null>,0.07377647,,,,Loop,,,{93B4B0CD-365D-41F6-8E3A-54E137672F42},Closed,0.00127576116565153
+15297,DL2946,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.12574699,,,Easy,Paved Connector,Asphalt,No,{FCFA4CBB-430B-464A-B442-F1312F3C8451},Active Trail,0.00227872966503666
+15298,DL27179,Paved Acces to Paved Trail,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.08846134,,,Easy,Paved Connector,Asphalt,No,{577DF0F1-2331-4FC3-B8B2-6F79987FBC81},Active Trail,0.00161231765346358
+15299,DL27183,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.00513656,,,Easy,Connector,Asphalt,No,{45C7F80F-299C-4EAE-B229-622D86697F0A},Active Trail,7.75584334099414e-05
+15300,DL27185,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.00444264,,,Easy,Paved Loop,Asphalt,No,{A27D01C1-C90B-4BEC-A8ED-0CCCE85A62C6},Active Trail,6.80886157823559e-05
+15301,DL27189,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.40739746,,,Easy,Paved Loop,Asphalt,No,{BFDF09A9-8068-4325-A7B4-E809A3667638},Active Trail,0.00698014183356358
+15302,DL27193,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.02779214,,,Easy,Paved Loop,Asphalt,No,{58BF132D-CDBE-4ED2-862D-B1BFF3F09CDE},Active Trail,0.000473257647832502
+15303,DL27194,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.00579127,,,Easy,Paved Loop,Asphalt,No,{C6BFB68A-0BCC-4DC4-8B46-DE244326E442},Active Trail,0.000108995725067737
+15304,DL27195,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.02912503,,,Easy,Paved Loop,Asphalt,No,{31ED83E6-6880-4BE8-90EE-687FECAA86A4},Active Trail,0.000476415380265036
+15305,DL27200,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.05347213,,,Easy,Paved Loop,Asphalt,No,{FE1ED7C8-CE35-40A6-B493-BD265125A301},Active Trail,0.000908976950990015
+15306,DL27203,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.00444395,,,Easy,Paved Loop,Asphalt,No,{E98B9891-4038-4375-9A49-CD3DA2C34441},Active Trail,6.9553555155613e-05
+15307,DL2949,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.41091093,,,Easy,Paved Loop,Asphalt,No,{F6FD3874-8BEB-40FE-BE79-1CC942F4279D},Active Trail,0.00698924843305315
+15308,DL27213,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.00586541,,,Easy,Paved Loop,Asphalt,No,{DBC06B03-ABCD-4612-8649-8CAB261AB147},Active Trail,8.98277911163642e-05
+15309,DL27214,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.00392329,,,Easy,Paved Loop,Asphalt,No,{960DF01A-E9F9-492D-83B3-F1A20ADD2AC6},Active Trail,7.45882246426052e-05
+15310,DL27215,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray,,,,http://apps.alleghenycounty.us/GIS/GRAY.png ,0.07733997,,,Easy,Connector,Asphalt,No,{8105FD0A-34A7-4067-A78A-77CACBD462AF},Active,0.00132465274478454
+15311,DL27216,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.0290789,,,Easy,Paved Access,Asphalt,No,{8B3D0D81-3DB6-4FF4-9B6A-1145CDB5A257},Active Trail,0.000539768583229661
+15312,DL2948,Gravel or Paved Trail/Road,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.10261292,,,Easy,Paved Access,Asphalt,No,{EB367069-2657-4F72-A942-E661BF0D08F2},Active Trail,0.00173705216492204
+15313,DL27220,Paved Access to Paved Trail,DL,Deer Lakes,Deer Lakes Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.09057144,,,Easy,Paved Connector,Asphalt,No,{549FC62A-2909-4BDB-B5A6-2B365CCD239C},Active Trail,0.00157498706246363
+15314,DL42516,Blue,DL,Deer Lakes,Deer Lakes Park,Blue,BL,Blue,,,,http://apps.alleghenycounty.us/GIS/BLUEbase.png,2.17646466,,,Moderate,Loop,Dirt,,{EC8A2C15-EB70-4A3D-BCD3-E386CF94B710},Active,0.037413390046769
+15315,DL42517,Decommissioned Blue,DL,Deer Lakes,Deer Lakes Park,<Null>,<Null>,,,,,<Null>,0.10225172,,,,,,,{BD66958B-0D89-4E44-A132-E22F19A3D907},Closed,0.00159774768619583
+15316,DL46660,Purple with White Dot,DL,Deer Lakes,Deer Lakes Park,Purple with White Dot,PL/WT Dot,Purple,,White,,http://apps.alleghenycounty.us/GIS/PURPLEbase_WHITEdot.png,0.10251199,,,Easy-Moderate,Access,Dirt,No,{FD1E2AFE-E236-4AD4-9F67-CE0C283CF56D},Active,0.00159845538736857
+15317,DL46661,Purple,DL,Deer Lakes,Deer Lakes Park,Purple,PL,Purple,,,,http://apps.alleghenycounty.us/GIS/PURPLEbase.png,1.1596635,,,Easy-Moderate,Loop,Dirt,No,{63248C64-D98E-4DD2-9314-60A8D3AFFE5F},Active,0.0205612393892587
+15318,DL46662,Decomissioned Purple,DL,Deer Lakes,Deer Lakes Park,,,,Green,,,,0.02642959,,0,,,,,{5681DF8C-73A1-49CB-8C23-A3C49CF3DF71},Closed,0.000425501568543049
+15319,DL46663, ,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.04072445,,,Easy,Connector,,,{F6DB97A3-778B-4BD3-A4E1-561259FE4C68},Closed,0.000686265584178507
+15320,DL46669,,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.01613953,,,Easy,Connector,Dirt,No,{52B28A6F-F337-4FAB-ABE4-9DABAE93898F},Active,0.000238996308283361
+15321,DL46671,Decommissioned Blue,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.09895898,,,,,Dirt,,{6F45E778-7827-425E-A223-0CA69861847F},Closed,0.00167218866406684
+15322,DL46673,Decommissioned Blue,DL,Deer Lakes,Deer Lakes Park,,,,,,,,0.01703422,,,,,Dirt,,{8302AD6D-CF6C-4119-8F99-A2B247B6775C},Closed,0.000285308196771307
+15323,NP4573, ,NP,North Park,North Park,,,,,,,,0.0109812,,,,,,,{4AF087E1-FB7D-43D8-A54C-907AB2C0DF14},Active,0.000160620407906148
+15324,NP4574,Access to de-commissioned Carson/North Ridge Trail,NP,North Park,North Park,,,,,,,,0.00715178,,,,,,,{47579DE0-4C48-4580-A784-C9CC39515F6E},Closed,0.000108794322950913
+15325,NP4577, ,NP,North Park,North Park,,,,,,,,0.01164942,,,,,,,{FA3AC39F-0782-458A-AF6C-FE182A8CC4E7},Active,0.000203670994700675
+15326,NP4579, ,NP,North Park,North Park,,,,,,,,0.05466141,,,,,,,{A54059D3-1F3C-4C72-A4A6-7C8203AD7528},Active,0.00087221377489358
+15327,NP4580, ,NP,North Park,North Park,,,,,,,,0.01318152,,,,,,,{37FFBB15-B924-4ACC-9ACD-D21469F0C718},Active,0.000202276445158735
+15328,NP4584, ,NP,North Park,North Park,,,,,,,,0.20916099,,,,,,,{C6665C02-86C3-4E10-867E-153890FFF2EC},Active,0.00382685432611972
+15329,NP4585, ,NP,North Park,North Park,,,,,,,,0.03621318,,,,,,,{C6365545-BF5F-4A0D-88BF-F226DD6D2821},Active,0.000677291091699952
+15330,NP4593, ,NP,North Park,North Park,,,,,,,,0.06281135,,,,,,,{0B46D93F-F118-46AC-9899-43B74B0A454D},Active,0.000984029429709454
+15331,NP4594, ,NP,North Park,North Park,,,,,,,,0.06423614,,,,,,,{35EAF328-91DB-4CC3-B089-777DA0D8EF90},Active,0.00119116677487637
+15332,NP4595, ,NP,North Park,North Park,,,,,,,,0.02451437,,,,,,,{BF42EB3A-77AD-42AA-BC43-3513F24BB063},Active,0.000456228708547631
+15333,NP4597, ,NP,North Park,North Park,,,,,,,,0.02555872,,,,,,,{1AC9506B-3647-471B-AAFE-A6AFF0ED29D8},Active,0.000458320735094289
+15334,NP4598, ,NP,North Park,North Park,,,,,,,,0.03119851,,,,,,,{051728D2-A64A-43C5-98E1-F2B00B4B5D1E},Active,0.000465845596957445
+15335,NP4599, ,NP,North Park,North Park,,,,,,,,0.01661167,,,,,,,{3A6B255A-F75B-423B-ADB3-D47CD1157165},Active,0.000247509664864145
+15336,NP4600, ,NP,North Park,North Park,,,,,,,,0.06869966,,,,,,,{0EDB7A38-792C-4F51-A395-D1CD41E51041},Active,0.00127965542715566
+15337,NP4601, ,NP,North Park,North Park,,,,,,,,0.05581381,,,,,,,{36066A20-E6EC-454C-B2B0-DB88C53802C5},Active,0.000946967506569588
+15338,NP4606, ,NP,North Park,North Park,,,,,,,,0.1449317,,,,,,,{771D3883-3A12-450F-A4B7-CB9EC6D855E9},Closed,0.00259648550035947
+15339,NP12890,Decommissioned Latodomi Trail.,NP,North Park,North Park,,,,,,,,0.04394317,,,,,,,{794FF489-EB20-418F-9AB6-525DCA387C50},Closed,0.000652190407322728
+15340,NP4608, ,NP,North Park,North Park,,,,,,,,0.01165867,,,,,,,{68953C04-2AA3-4FD3-BD92-9FDCECC092E9},Active,0.000214235974027103
+15341,NP4609, ,NP,North Park,North Park,,,,,,,,0.23581271,,,,,,,{E48AC5DA-1A75-4F38-A02D-8EC488F9FD0A},Active,0.00416220641454756
+15342,NP4610, ,NP,North Park,North Park,,,,,,,,0.03839739,,,,,,,{D8405302-40A1-4117-BBD6-95C3179279F3},Active,0.000611801803747891
+15343,NP4611, ,NP,North Park,North Park,,,,,,,,0.09025814,,,,,,,{8FC432AD-601F-491A-B932-49EC9B7410FC},Active,0.00148160033905931
+15344,NP4612, ,NP,North Park,North Park,,,,,,,,0.07491156,,,,,,,{FD40C4A7-5715-4555-8CFA-83C77FDBA275},Active,0.00115421884793706
+15345,NP4613, ,NP,North Park,North Park,,,,,,,,0.15952338,,,,,,,{57281C4D-2852-4FEB-A5E6-078700711DC5},Active,0.00241153966005507
+15346,NP4616, ,NP,North Park,North Park,,,,,,,,0.01357937,,,,,,,{CB860CE8-248A-4F27-BF4F-AE5BFE4B4BA5},Active,0.000245417325043858
+15347,NP4618, ,NP,North Park,North Park,,,,,,,,0.10863915,,,,,,,{E7E9C5D3-72D8-4610-9BA3-DE754FFED89A},Active,0.00167543116905958
+15348,NP4620, ,NP,North Park,North Park,,,,,,,,0.02736885,,,,,,,{404C9063-EC5E-447A-967A-2B26B9C04533},Active,0.000434343923109609
+15349,NP4621, ,NP,North Park,North Park,,,,,,,,0.02734404,,,,,,,{0D5BA481-808E-4222-B0AF-F89028E2698E},Active,0.000460205560914792
+15350,NP4623, ,NP,North Park,North Park,,,,,,,,0.01152443,,,,,,,{BB43B2C4-A933-4F79-81BF-87746D6FB2AB},Active,0.00020710630042727
+15351,NP4624, ,NP,North Park,North Park,,,,,,,,0.02104568,,,,,,,{C145D079-DB06-4257-9186-276F4D1734D2},Closed,0.000372439521702566
+15352,NP4629, ,NP,North Park,North Park,,,,,,,,0.00765374,,,,,,,{341126A7-B7DA-4434-A061-E9CD20D7B1E5},Active,0.000141109231400476
+15353,NP4630, ,NP,North Park,North Park,,,,,,,,0.01032309,,,,,,,{33513719-93D8-4A2F-A8F5-3B33ECE0F2DD},Active,0.000193581507654916
+15354,NP4631,Decommissioned Latodomi Trail,NP,North Park,North Park,,,,,,,,0.15430608,,,,,,,{1170EC40-82AA-41BC-9C2F-CFBA9E37C3F8},Closed,0.00231418344025534
+15355,NP4632, ,NP,North Park,North Park,,,,,,,,0.03552595,,,,,,,{0778CA59-332B-4088-9D9A-010DC62C4C9A},Active,0.00057770357021761
+15356,NP4633, ,NP,North Park,North Park,,,,,,,,0.02795866,,,,,,,{CAA6EDEC-66F6-4541-8E60-2483600BF89D},Active,0.000490792782294485
+15357,NP4634, ,NP,North Park,North Park,,,,,,,,0.01116889,,,,,,,{9D6421B5-FD56-4AF1-A35C-EDB46E79C392},Active,0.000203464214396832
+15358,NP4635, ,NP,North Park,North Park,,,,,,,,0.02653955,,,,,,,{5BB572E1-A840-45AF-9A3F-6BA654911F6A},Active,0.000478210497013608
+15359,NP4636, ,NP,North Park,North Park,,,,,,,,0.14593906,,,,,,,{7569FAF4-3B38-4716-B0BD-7271651B6343},Closed,0.00249176340491304
+15360,NP4637, ,NP,North Park,North Park,,,,,,,,0.00949279,,,,,,,{286B2379-3CAB-485A-ACB7-24732CA7661B},Active,0.000160209188587055
+15361,NP4641, ,NP,North Park,North Park,,,,,,,,0.00951065,,,,,,,{BFC22481-098F-468C-9246-BAC4FD4D47CB},Active,0.000180035323088186
+15362,NP4642, ,NP,North Park,North Park,,,,,,,,0.21622684,,,,,,,{602B678B-61B3-44D4-92BB-29CCC98C485C},Active,0.00390871894413851
+15363,NP4643, ,NP,North Park,North Park,,,,,,,,0.33350124,,,,,,,{06091B09-FC24-4660-8A0F-2F9B7CAD1D0B},Active,0.00545359160125328
+15364,NP4644, ,NP,North Park,North Park,,,,,,,,0.04341212,,,,,,,{74DC9315-98C0-466B-ABE9-3A247401549C},Active,0.000772608869852067
+15365,NP4645, ,NP,North Park,North Park,,,,,,,,0.05544842,,,,,,,{B0AD97B4-E886-4934-95B8-EE6F9B6216E8},Active,0.000909104998520685
+15366,NP4646, ,NP,North Park,North Park,,,,,,,,0.08555032,,,,,,,{C4EF2A4B-1B0A-4818-B0E5-0082C5469FD2},Active,0.00150662419979086
+15367,NP4647, ,NP,North Park,North Park,,,,,,,,0.02243359,,,,,,,{4ECDDF7C-A29D-447F-9428-439C822D507E},Active,0.000369939995244853
+15368,NP4648, ,NP,North Park,North Park,,,,,,,,0.06271016,,,,,,,{432125AD-EADE-4768-BD17-FD9797E7105A},Active,0.00112376739199655
+15369,NP4649, ,NP,North Park,North Park,,,,,,,,0.03147436,,,,,,,{1AD794E6-6550-4CE9-B4D9-6A05BD0A43C9},Active,0.000568228818036252
+15370,NP4650, ,NP,North Park,North Park,,,,,,,,0.12435745,,,,,,,{10165FF5-B1A8-4F77-AEF2-A313DF61A09C},Active,0.00211462433906746
+15371,NP4651, ,NP,North Park,North Park,,,,,,,,0.13526181,,,,,,,{820E3880-29F7-4CB2-A9CB-AF9307DC2809},Active,0.00226233282541323
+15372,NP4652, ,NP,North Park,North Park,,,,,,,,0.16663431,,,,,,,{E5829604-543B-42C0-B541-E8ABA4A6C7E3},Closed,0.00270507401796835
+15373,NP4653, ,NP,North Park,North Park,,,,,,,,0.11904033,,,,,,,{D0FA8940-11DF-4705-A02B-E07815F557D7},Active,0.00201253306148112
+15374,NP12934,Private Access - Hide,NP,North Park,North Park,,,,,,,,0.00121813,,,,,,,{A0AA0E45-5163-4C54-A564-DA28B1EBF909},Closed,2.30254663017318e-05
+15375,NP4656, ,NP,North Park,North Park,,,,,,,,0.02729934,,,,,,,{057CB62C-B5C7-4585-B2A1-AE58F703562E},Closed,0.00049211808390247
+15376,NP4659, ,NP,North Park,North Park,,,,,,,,0.0652101,,,,,,,{6517AA77-73B0-4192-A1F6-B16434FDD1FF},Active,0.000986280199380906
+15377,NP4661, ,NP,North Park,North Park,,,,,,,,0.09557632,,,,,,,{262EB5E4-DFC4-4E88-9279-E9170B27A071},Active,0.00146761644929297
+15378,NP4665,Green ,NP,North Park,North Park,Green,GN,Green,,,,http://apps.alleghenycounty.us/GIS/GREENbase.png,0.49545786,,,Easy-Moderate,Access,,,{29C4D0C6-F0F0-44A1-A7C6-98BA68F24BCC},Active,0.00880384447716781
+15379,NP4666, ,NP,North Park,North Park,,,,,,,,0.03805528,,,,,,,{4C924AFF-2354-44D5-80CF-52C35E532A3D},Closed,0.000572906490762643
+15380,NP4667, ,NP,North Park,North Park,,,,,,,,0.01895315,,,,,,,{5C4665C1-ADEE-402C-B1B5-C8546251609E},Active,0.000298487757046186
+15381,NP12943,Decommissioned Trail.,NP,North Park,North Park,,,,,,,,0.03794687,,,,,,,{1FD493FF-FC80-4A3C-991E-7C3D2A1D085A},Closed,0.000665546702659211
+15382,NP4669, ,NP,North Park,North Park,,,,,,,,0.03985388,,,,,,,{8A0014AD-6E8E-4AF0-98B3-2519A35886DB},Active,0.000609524653372394
+15383,NP4671, ,NP,North Park,North Park,,,,,,,,0.01947882,,,,,,,{C34F87B5-E1FB-4EAD-90DD-F1581CAF893A},Active,0.00035769693873353
+15384,NP4673, ,NP,North Park,North Park,,,,,,,,0.03086313,,,,,,,{AB31ABE7-E3E8-4541-B70B-B537F0E6CF22},Active,0.000450403241712466
+15385,NP4674, ,NP,North Park,North Park,,,,,,,,0.08189245,,,,,,,{4FDA2B07-5271-4DB1-A7F3-589ACBD6B430},Active,0.00152315167343864
+15386,NP4675, ,NP,North Park,North Park,,,,,,,,0.00624759,,,,,,,{C810B706-5463-4CE5-994C-B65C83C401D7},Active,0.0001173198627506
+15387,NP4676, ,NP,North Park,North Park,,,,,,,,0.04848234,,,,,,,{B335A549-62CA-4D0E-9D17-0620FCB561DC},Active,0.000782442865975986
+15388,NP4677, ,NP,North Park,North Park,,,,,,,,0.03273255,,,,,,,{0369B493-1B2A-4B56-8583-34F40C796917},Active,0.000513443733027661
+15389,NP4679, ,NP,North Park,North Park,,,,,,,,0.2238354,,,,,,,{B17E6A5E-3C51-4BD2-A092-C1F9D744E686},Closed,0.00398539002471289
+15390,NP4682, ,NP,North Park,North Park,,,,,,,,0.17924234,,,,,,,{E02FD999-2F03-4B9C-983F-05562E33C237},Active,0.00308669165271999
+15391,NP4689, ,NP,North Park,North Park,,,,,,,,0.25906737,,,,,,,{F56E78A8-01EB-446A-80D9-3B3533D6491E},Active,0.00426213948763152
+15392,NP12965,Nature Center Green Trail ,NP,North Park,North Park,Green,GN,Green,,,,http://apps.alleghenycounty.us/GiS/GREENbase.png,1.1473806,,,Moderate,Loop,,No,{485454CB-12DE-4C08-8E01-898BE0BD82DF},Active,0.0203171612495116
+15393,NP4692,Decommissioned Trail.,NP,North Park,North Park,,,,,,,,0.15604685,,,,,,,{0096AB22-D6B1-4331-B023-CCF46E5B271C},Closed,0.00276582348659108
+15394,NP4699, ,NP,North Park,North Park,,,,,,,,0.80481995,,,,,,,{C7292312-B091-44F8-9288-D5FF15B0A2C4},Active,0.0135816143689045
+15395,NP4700, ,NP,North Park,North Park,,,,,,,,0.04139444,,,,,,,{E864743F-D1C1-4992-91EC-EB9CDA0B46DC},Active,0.00066097086053341
+15396,NP4701, ,NP,North Park,North Park,,,,,,,,0.64369796,,,,,,,{284FB410-3F5E-4552-B544-D806613B1907},Active,0.011072184690945
+15397,NP4702, ,NP,North Park,North Park,,,,,,,,0.14119891,,,,,,,{2A0C4258-D67C-4730-8D60-135E07DFFD95},Active,0.00230439528496754
+15398,NP4703, ,NP,North Park,North Park,,,,,,,,0.16249129,,,,,,,{DD52B7C8-392C-412A-B806-EE47C1128044},Active,0.00281307325133542
+15399,NP4704, ,NP,North Park,North Park,,,,,,,,0.05981586,,,,,,,{97B17EE6-BFB5-438D-A855-190FA85D68A3},Active,0.000896033184695417
+15400,NP4705, ,NP,North Park,North Park,,,,,,,,0.08722705,,,,,,,{9EBFDD4C-2D34-4E08-9C21-FD993A7834DA},Active,0.0014360641142423
+15401,NP4708, ,NP,North Park,North Park,,,,,,,,0.10310561,,,,,,,{C2CF35BA-E235-4A24-BBDE-4F2C971E93B1},Active,0.00170005290964961
+15402,NP4709, ,NP,North Park,North Park,,,,,,,,0.01432609,,,,,,,{D421B508-12A2-48A4-B53B-67D9F7D804AB},Active,0.000236647526052476
+15403,NP4710, ,NP,North Park,North Park,,,,,,,,0.01192884,,,,,,,{A99197F9-01E1-4BD2-A0F6-D63048F18FA0},Active,0.000224971893517772
+15404,NP4711, ,NP,North Park,North Park,,,,,,,,0.02268767,,,,,,,{88D8F3C3-0491-454E-BE00-F13EC75C6022},Active,0.000337868037504856
+15405,NP4712, ,NP,North Park,North Park,,,,,,,,0.01317614,,,,,,,{8656CA4B-283C-4FED-8709-6321EC3D7E4F},Active,0.00024627618826649
+15406,NP4714, ,NP,North Park,North Park,,,,,,,,0.12202255,,,,,,,{87D4499D-4785-4DF1-A4ED-A4E8CE99B34E},Active,0.00218323551056031
+15407,NP4715, ,NP,North Park,North Park,,,,,,,,0.02169112,,,,,,,{7FD106E1-089E-437F-B5AE-BB6CE7843E59},Active,0.00038864470034848
+15408,NP4717,Orange with Green Dot,NP,North Park,North Park,Orange with Green Dot,OR/GN Dot,Orange, ,Green, ,http://apps.alleghenycounty.us/GIS/ORANGEbase_GREENdot.png,0.61645102,,,Easy-Moderate,Pt_to_Pt,,,{8A891BC8-2E0D-4938-B4B0-ED09D41BF6CF},Active,0.00991091368901249
+15409,NP4718,,NP,North Park,North Park,<Null>,<Null>,, ,, ,<Null>,0.19831044,,,Easy-Moderate,Pt_to_Pt,,,{97698718-1070-4685-A7DE-CE224453A1E1},Active,0.00311819897256665
+15410,NP4719,Red with Green Cap,NP,North Park,North Park,Red with Green Cap,RD/GN Cap,Red,Green, , ,http://apps.alleghenycounty.us/GIS/REDbase_GREENcap.png,0.04371705,,,Moderate,Access,,,{EF453BC9-86F9-47CF-90B7-05D61C83EE12},Active,0.000743625556044362
+15411,NP4721,White with Red Dot,NP,North Park,North Park,White with Red Dot,WT/RD Dot,White, ,Red, ,http://apps.alleghenycounty.us/GIS/WHITEbase_REDdot.png,0.61291163,,,Easy,Pt_to_Pt,,,{06485133-B4CB-4095-AF64-1C20B7986A0A},Active,0.0103365556076799
+15412,NP4723,White with Black Dash,NP,North Park,North Park,White with Black Dash,WT/BK Dash,White, , ,Black,http://apps.alleghenycounty.us/GIS/WHITEbase_BLACKdash.png,0.04210232,,,Easy-Moderate,Connector,,,{1C0A68D9-F9DA-471B-95F5-4D4E560C5F61},Active,0.000790161366211002
+15413,NP4724,White with Black Dot,NP,North Park,North Park,White with Black Dot,WT/BK Dot,White, ,Black, ,http://apps.alleghenycounty.us/GIS/WHITEbase_BLACKdot.png,0.36319521,,,Moderate,Pt_to_Pt,,,{BACF87CA-B7DA-44CD-BDAD-64D95E81A029},Active,0.0061621952920146
+15414,NP4726,Green with Yellow Dot,NP,North Park,North Park,Green with Yellow Dot,GN/YL Dot,Green, ,Yellow, ,http://apps.alleghenycounty.us/GIS/GREENbase_YELLOWdot.png,0.24930729,,,Easy,Access,,,{51EF9F8A-55D3-4B4C-A9A7-9B20F2B86B8C},Active,0.00458712864393081
+15415,NP4728,Orange with White Dot,NP,North Park,North Park,Orange with White Dot,OR/WT Dot,Orange, ,White, ,http://apps.alleghenycounty.us/GIS/ORANGEbase_WHITEdot.png,0.10723117,,,Difficult,Access,,,{2807898C-3E3C-423A-A08B-21FB0F83A1CC},Active,0.00166246050942349
+15416,NP4729,,NP,North Park,North Park,<Null>,<Null>,, ,, ,<Null>,0.20469865,,,Easy-Moderate,Access,,,{AA45AD25-E403-4792-B05B-DD167FA1B935},Closed,0.00357426899393944
+15417,NP4730,Orange Access Trail - Decommissioned,NP,North Park,North Park,<Null>,<Null>,, ,, ,<Null>,0.21220934,,,Easy-Moderate,Access,,,{9DCD2538-CCB2-42D4-BB79-0A74850EC007},Closed,0.00350075320225507
+15418,NP4731,Red with Brown Dot - Decommissioned,NP,North Park,North Park,<Null>,<Null>,, ,, ,<Null>,0.07244316,,,Easy-Moderate,Access,Dirt,,{661F716F-E37F-4D39-A3B1-D74D9CFD92A5},Closed,0.00119750061066104
+15419,NP4734,White with Green Dot,NP,North Park,North Park,White with Green Dot,WT/GN Dot,White, ,Green, ,http://apps.alleghenycounty.us/GIS/WHITEbase_GREENdot.png,0.9322552,,,Moderate,Pt_to_Pt,,,{2D088A2D-21ED-448D-A7EE-F36B0A2FF89A},Active,0.0162658963728243
+15420,NP4735,Red with White Cap,NP,North Park,North Park,Red with White Cap,RD/WT Cap,Red,White, , ,http://apps.alleghenycounty.us/GIS/REDbase_WHITEcap.png,0.14569641,,,Easy,Access,,,{6F40D84B-402E-4BDE-A49D-7B2A14A51323},Active,0.00236861217812497
+15421,NP4742,,NP,North Park,North Park,<Null>,<Null>,, ,, ,<Null>,0.16117691,,,Easy-Moderate,Pt_to_Pt,,,{D5C76EDC-2169-4B27-BBA2-583925C81704},Active,0.00248753189836461
+15422,NP4744,Red with Red Cap,NP,North Park,North Park,Red with Red Cap,RD/RD Cap,Red,Red, , ,http://apps.alleghenycounty.us/GIS/REDbase_REDcap.png,0.35953347,,,Moderate,Access,,No,{22E2BD01-6527-41B6-A67D-1249AB8C399C},Active,0.00571209485928032
+15423,NP4746,Orange with Purple Dot,NP,North Park,North Park,Orange with Purple Dot,OR/PL Dot,Orange, ,Purple, ,http://apps.alleghenycounty.us/GIS/ORANGEbase_PURPLEdot.png,0.08549786,,,Easy-Moderate,Access,,,{F7E4FCAF-CD83-452B-9993-D05DCB6CC065},Active,0.00152059982473653
+15424,NP4751,Gravel or Paved Trail/Road,NP,North Park,North Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,0.60432361,,,Easy-Moderate,Pt_to_Pt,Recycled Asphalt,No,{F0BE9113-3E94-4A85-9BAD-9C0732F152B2},Active,0.0102496590006005
+15425,NP6172, ,NP,North Park,North Park,,,,,,,,0.01681132,,,,,,,{5A6CB1C3-48E4-4E95-B9ED-113019F35056},Active,0.000253631207801114
+15426,NP13211,Green,NP,North Park,North Park,Green,GN,Green,,,,http://apps.alleghenycounty.us/GIS/GREENbase.png,1.88809602,,,Moderate,Loop,Dirt,No,{83533C75-C760-4910-9409-56B93C5E071C},Active,0.031854299741202
+15427,NP6571,Orange,NP,North Park,North Park,Orange,OR,Orange, , , ,http://apps.alleghenycounty.us/GIS/ORANGEbase.png,4.24098532,,,Moderate-Difficult,Loop,,,{089C6A33-2B1A-4DD7-8A30-592A92123FC1},Active,0.0711365858385851
+15428,NP6593, ,NP,North Park,North Park,<Null>,<Null>,, ,, ,<Null>,0.07406433,,,Difficult,Pt_to_Pt,,,{44F61042-A7F0-485E-BEF0-22BE6CC6355F},Active,0.00123839824212669
+15429,NP6594,Red with Blue Cap,NP,North Park,North Park,Red with Blue Cap,RD/BL Cap,Red,Blue, , ,http://apps.alleghenycounty.us/GIS/REDbase_BLUEcap.png,0.03151853,,,Easy,Access,,,{B49FAA99-2E19-42A9-B123-4FE66C54FA01},Active,0.000498174324794936
+15430,NP6597,Old Purple,NP,North Park,North Park,<Null>,<Null>,, , , ,<Null>,0.00978455,,,,,,,{32420C9B-A98A-4AF7-B7C1-D594476D52C3},Active,0.000156601320563368
+15431,NP4753,Purple,NP,North Park,North Park,Purple,PL,Purple, , , ,http://apps.alleghenycounty.us/GIS/PURPLEbase.png,0.0231365,,,Moderate,Pt_to_Pt,,,{EA57051A-BC51-469A-8D7E-CB3C547CEC74},Active,0.000356290649411218
+15432,NP6996,North Ridge Trail,NP,North Park,North Park,<Null>,<Null>,, , , ,<Null>,0.40836878,,,,,,,{7A2C29CE-789D-48FC-B80D-8466036D9284},Active,0.00706577382140854
+15433,NP8605,,NP,North Park,North Park,,,,,,,,0.29705742,,,Moderate,Connector,,,{E8D34322-9A0A-4DBF-8C0C-67D4399A2DCB},Active,0.00515534777541356
+15434,NP7827, ,NP,North Park,North Park,,,,,,,,0.12022214,,,,,,,{2DA7A53F-A220-4DCC-82D4-CD0C55BA19C5},Active,0.00180800099364784
+15435,NP7782, ,NP,North Park,North Park,,,,,,,,0.22776595,,,,,,,{96B04179-DFA6-494E-8EF7-FFC63781EF98},Active,0.00392628487338247
+15436,NP7783, ,NP,North Park,North Park,,,,,,,,0.14371908,,,,,,,{75D49CE3-0813-43F8-AA82-C4E98DAE2E91},Active,0.00259407324329104
+15437,NP7890, ,NP,North Park,North Park,,,,,,,,0.17706347,,,,,,,{10453BC9-1D18-45CD-AB20-A3E1D5D67CAC},Active,0.00311062834212238
+15438,NP7889, ,NP,North Park,North Park,,,,,,,,0.18572103,,,,,,,{FC97637D-416C-45DC-A2FE-F017954962F1},Active,0.003211249166178
+15439,NP7896, ,NP,North Park,North Park,,,,,,,,0.11681173,,,,,,,{C8A5FE80-F50D-4F3F-8102-48F855E08FB3},Active,0.00209066127173749
+15440,NP7826, ,NP,North Park,North Park,,,,,,,,0.0853539,,,,,,,{DC329A53-D099-4097-8929-D9D21EB59E60},Active,0.00152763275014446
+15441,NP7828, ,NP,North Park,North Park,,,,,,,,0.32342645,,,,,,,{F2C697E9-58C1-4CE2-8A59-633EFD6F8290},Active,0.00545618217362425
+15442,NP7870, ,NP,North Park,North Park,,,,,,,,0.44413316,,,,,,,{E1EA46A8-BC62-455D-987D-60C40333BF26},Active,0.00772024904364825
+15443,NP7880, ,NP,North Park,North Park,,,,,,,,0.15330605,,,,,,,{DA0CCCD0-7725-4F7A-97BA-3DFAFF6BEF8B},Active,0.002573125737782
+15444,NP7778, ,NP,North Park,North Park,,,,,,,,0.05042547,,,,,,,{00F94AA6-8C01-485A-9253-F31F59F34E23},Active,0.000735794435491389
+15445,NP13268, ,NP,North Park,North Park,<Null>,<Null>,, , , ,<Null>,0.24821838,,,Moderate-Difficult,Access,,,{57271DEF-9D9C-4A8B-B48E-39BAE614107E},Active,0.00424476296456732
+15446,NP4752,Purple,NP,North Park,North Park,Purple,PL,Purple, , , ,http://apps.alleghenycounty.us/GIS/PURPLEbase.png,1.9118247,,,Moderate-Difficult,Loop,,No,{FA0F1302-DF79-4FB3-9C3B-DA195FA51537},Active,0.0327841131851668
+15447,NP4749,Red,NP,North Park,North Park,Red,RD,Red, , , ,http://apps.alleghenycounty.us/GIS/REDbase.png,0.27674984,,,Difficult,Pt_to_Pt,,,{34939020-A16C-4B9E-90EE-396CFD96F8E8},Active,0.00480667526368654
+15448,NP4706, ,NP,North Park,North Park,,,,,,,,0.20543956,,,,,,,{461E2A60-5A7D-44EC-97D8-F63E247505D2},Closed,0.00342214005898401
+15449,NP4732,Red Access,NP,North Park,North Park,Red,RD,Red, ,, ,http://apps.alleghenycounty.us/GIS/REDbase.png,0.14289962,,,Moderate,Pt_to_Pt,Dirt,,{8A0129E5-59C2-49FE-A131-9BE09005593A},Active,0.00223620304654102
+15450,NP22350,,NP,North Park,North Park,,,,,,,,0.01578618,,,Easy,Connector,Dirt,,{731CD4DB-1AD1-4E71-B145-F0081749F6C0},Active,0.000269274369907629
+15451,NP9008,Purple,NP,North Park,North Park,Purple,PL,Purple, , , ,http://apps.alleghenycounty.us/GIS/PURPLEbase.png,0.36074488,,,Moderate-Difficult,Access,,,{3656A0B0-812C-4AB6-9538-0BAB407E7ACA},Active,0.00589769984635482
+15452,NP27974,,NP,North Park,North Park,<Null>,<Null>,,,,,<Null>,0.15788592,,,Easy,,Crushed Limestone,Yes,{A5745E98-E066-46CF-9B6D-2A581CBE08B8},Closed,0.00279968874166025
+15453,NP27975,,NP,North Park,North Park,,,Gray,,,,<Null>,0.03363731,,,Easy,Connector,Crushed Limestone,Yes,{BB366ED6-ADE4-48A1-A64E-6E8165DFA2FF},Closed,0.000593797002236352
+15454,NP29179,Green,NP,North Park,North Park,<Null>,<Null>,,,,,<Null>,0.14897292,,,Easy-Moderate,Point to Point,,,{6EFF03E2-B966-4BEF-A431-269BDE8459CD},Closed,0.00249064038905607
+15455,NP30792,Picnic Loop Paved Trail,NP,North Park,North Park,Gray,GY,Gray,,,,http://apps.alleghenycounty.us/GIS/GRAYbase.png,1.40536265,,,Easy,Loop,Asphalt,No,{0C2BE37B-933B-434E-ADCD-A1C353277CE0},Active,0.0238286378699213
+15456,NP30793,Picnic Loop Paved Trail Divider,NP,North Park,North Park,Gray,GY,Gray,,,,http://apps.alleghenycounty.us/GIS/GRAYbase.png,0.1715321,,,Easy,Connector,Asphalt,No,{4E63D5C9-82FB-45BD-A291-D2E263DDEA24},Active,0.00269204822178295
+15457,NP32394, ,NP,North Park,North Park,,,,,,,,0.13420749,,,,,,,{60F3E0D1-4F47-42E7-9A26-4223E69F8C2C},Active,0.00206828286211222
+15458,NP4691, ,NP,North Park,North Park,,,,,,,,0.01211729,,,,,,,{783E2D7C-1E45-4B56-AAA0-1753717AE22F},Active,0.000222128309065491
+15459,NP32398,Decommissioned Latodomi Trail,NP,North Park,North Park,,,,,,,,0.32266864,,,,,,,{CB27A502-07D3-4F81-87BF-D2C589DA6C1A},Closed,0.0057597591709169
+15460,NP32399,Latodomi Nature Center Brown Trail,NP,North Park,North Park,<Null>,<Null>,,,,,<Null>,0.41844865,,,,,,,{7B26F62D-0325-4A4C-A4EF-3C976769DE81},Active,0.00775723286109876
+15461,NP32400, ,NP,North Park,North Park,,,,,,,,0.02018442,,,,,,,{F3417AF8-FBF7-4935-94F7-ED237FDF88E0},Active,0.000349716311438727
+15462,NP32793, ,NP,North Park,North Park,,,,,,,,0.02787375,,,,,,,{E937D473-DC64-4F94-B04C-5E25F88F1A3F},Active,0.000490785465924181
+15463,NP32795, ,NP,North Park,North Park,,,,,,,,0.04884564,,,,,,,{FD8331C9-D179-4BBA-B785-C18EA335E6F3},Active,0.000828122926104124
+15464,NP32799, ,NP,North Park,North Park,,,,,,,,0.03403969,,,,,,,{4D7EBC61-8A56-4CE2-A422-B314581AEF5E},Active,0.000627035835693714
+15465,NP32801, ,NP,North Park,North Park,,,,,,,,0.02617383,,,,,,,{E90C11E4-D6FF-4D42-97A3-3850E4C3E4FC},Active,0.000434102755867054
+15466,NP4681, ,NP,North Park,North Park,,,,,,,,0.07977904,,,,,,,{075B3FEF-D5BB-40E6-B65E-80BD933AF70A},Active,0.00123682452198737
+15467,NP4672, ,NP,North Park,North Park,,,,,,,,0.01358914,,,,,,,{A4291B64-C1B7-4334-A58F-FB2353BCC401},Active,0.000208653709820967
+15468,NP32827,Nature Center Purple Trail,NP,North Park,North Park,Purple,PL,Purple,,,,http://apps.alleghenycounty.us/GIS/PURPLEbase.png,0.63419575,,,Moderate,Point to Point,Dirt,,{F66A91E8-EC0C-49EC-B39B-9E6AADAD0B63},Active,0.0108472391676787
+15469,NP32829,Nature Center Red Trail,NP,North Park,North Park,Red,RD,Red, , , ,http://apps.alleghenycounty.us/GIS/REDbase.png,0.40122667,,,Easy,Loop,Dirt,No,{140F5A5B-062F-4CEC-98B8-5056D3FC20B4},Active,0.0068774063577988
+15471,NP32832,Nature Center Orange Trail (Wagon Wheel Trail),NP,North Park,North Park,Orange,OR,Orange,,,,http://apps.alleghenycounty.us/GIS/ORANGEbase.png,0.22772071,,,Easy-Moderate,Point to Point,,No,{876B7790-E21D-4C9D-A403-02E54C997BAD},Active,0.0038209299733794
+15472,NP32833, ,NP,North Park,North Park,,,,,,,,0.01259167,,,,,,,{A0853223-C064-4603-8F5B-2156DB4A6B67},Active,0.00023923605889334
+15474,NP32839, ,NP,North Park,North Park,<Null>,<Null>,, , , ,<Null>,0.01570197,,,Moderate,Loop,Dirt,No,{6C12D1F2-E433-402B-BB00-CDA42DE373B7},Active,0.000232482866829611
+15475,NP4627, ,NP,North Park,North Park,,,,,,,,0.00448288,,,,,,,{45C43A3E-D221-4996-8348-F03427B8BB29},Active,7.30280495657104e-05
+15476,NP33240, ,NP,North Park,North Park,<Null>,<Null>,,,,,<Null>,0.02044273,,,,Connector,,,{3631AA67-6ACE-4754-BBC7-D558C6EF1EAC},Active,0.000307011143251285
+15477,NP32395, ,NP,North Park,North Park,<Null>,<Null>,,,,,,0.01397042,,,Easy,Connector,Grass,,{14AB3173-5339-45E9-A6A9-0948D3D4CF80},Active,0.000255144734908047
+15478,NP33640, ,NP,North Park,North Park,<Null>,<Null>,,,,,<Null>,0.31555732,,,Moderate,Loop,,,{A9729C4F-FA10-46E0-A384-F8E800D0BDDD},Active,0.00551377836256026
+15479,NP38458, ,NP,North Park,North Park,<Null>,<Null>,, ,, ,<Null>,0.03793452,,,Easy,Pt_to_Pt,Dirt,,{090337F2-8925-418D-9C38-87072A3D4FF7},Active,0.000709029054344229
+15480,NP38459, ,NP,North Park,North Park,<Null>,<Null>,, ,, ,<Null>,0.0846117,,,,Pt_to_Pt,Dirt,No,{6DB5F74A-841E-469E-9827-8B010D29A279},Active,0.00149404485664184
+15481,NP38856, ,NP,North Park,North Park,<Null>,<Null>,,,,,<Null>,0.01539658,,,Easy,Pt_to_Pt,Dirt,No,{8C0F6909-45F4-41DC-8C8F-ABBD3FA69474},Active,0.00022328338633516
+15482,NP41657,Old Blue Trail,NP,North Park,North Park,<Null>,<Null>,,,,,<Null>,0.05049446,,,Moderate,Connector,Dirt,No,{52046BEC-C249-4BC6-8C21-C00D1D2BD303},Active,0.000826531699771661
+15483,NP41658,White,NP,North Park,North Park,White,WT,White, , , ,http://apps.alleghenycounty.us/GIS/WHITEbase.png,2.41451883,,,Easy-Moderate,Loop,Dirt,No,{CC0ED63B-59FF-4A48-936A-14552FDCF559},Active,0.0408263065592205
+15484,NP41661,Blue Trail,NP,North Park,North Park,Blue,BL,Blue,,,,http://apps.alleghenycounty.us/GIS/BLUEbase.png,2.21253493,,,Easy-Moderate,Loop,,No,{41043456-B1BB-41C2-910F-A96F18ED97CC},Active,0.0367188072625467
+15485,NP42060,Orange Trail Access,NP,North Park,North Park,Orange,OR,Orange,,,,http://apps.alleghenycounty.us/GIS/ORANGEbase.png,0.38674442,,,Moderate,Access,,No,{1137BBA3-5E28-4C76-A5C4-8F8C6C15E7B1},Active,0.00642655649082905
+15486,NP42541,Decommissioned Red,NP,North Park,North Park,<Null>,<Null>,,,,,<Null>,0.07160443,,,,,,,{FD2F43DA-FFDF-4859-A5AE-CFBC8EF5DB89},Closed,0.00127298995144474
+15487,NP42544,Decommissioned Rachel Carson Trail - Yellow,NP,North Park,North Park,<Null>,<Null>,,,,,<Null>,0.07160443,,,,,,,{5FE17B58-2C25-48DA-880D-5C518AF444F5},Closed,0.00127298995144474
+15488,NP42550,Red,NP,North Park,North Park,Red,RD,Red,,,,http://apps.alleghenycounty.us/GIS/REDbase.png,9.35403633,,,Difficult,Loop,Dirt,No,{19F59872-55AA-4826-BB17-1591C6D857C6},Active,0.15448251285632
+15489,NP43334,Nature Center Blue,NP,North Park,North Park,Blue,BL,Blue,,,,http://apps.alleghenycounty.us/GIS/BLUEbase.png,1.19962214,,,Moderate,Point to Point,,No,{0C1DFC52-EE0E-41EC-B802-CB4229BA3F1D},Active,0.021207049338723
+15490,NP43340, ,NP,North Park,North Park,<Null>,<Null>,,,,,<Null>,0.23094302,,,Easy-Moderate,Connector,Grass,No,{1277D2CE-6820-4B83-A54E-EA6056A55287},Active,0.00372163699658475
+15491,NP45453,Gravel or Paved Trail/Road,NP,North Park,North Park,Gravel or Paved Trail/Road,GY,Gray,,,,http://apps.alleghenycounty.us/GIS/GRAYbase.png,4.95833533,,,Easy,Point to Point,Asphalt,,{CDF19E35-0E16-4EAA-9318-E7C7A47A0C56},Active,0.0852658754524877
+15492,NP46651,Rachel Carson Trail - Yellow,NP,North Park,North Park,Yellow,YL,Yellow,,,,http://apps.alleghenycounty.us/GIS/YELLOWbase.png,8.78601154,,,Moderate-Difficult,Point to Point,,,{E91150EA-459E-4B66-B3CD-C952D5BD2034},Active,0.147393089057121
+15493,NP46652,Decommissionded Rachel Carson Trail - Yellow,NP,North Park,North Park,<Null>,<Null>,,,,,,0.03639263,,,,,Dirt,,{8009BAEA-A128-433E-A5D3-17A0F69E3E47},Closed,0.000676787029136749
+15494,NP51045,Nature Center Pink Trail - Pond Trail,NP,North Park,North Park,Pink,PK,Pink,,,,http://apps.alleghenycounty.us/GIS/PINKbase.png,0.19585966,,,Easy,Loop,Dirt,No,{AD35D75B-3205-43CC-B51C-E47812C47727},Active,0.00347689072125895
+15495,NP32836,Nature Center White Trail,NP,North Park,North Park,White,WT,White,,,,http://apps.alleghenycounty.us/GIS/WHITEbase.png,1.12868492,,,Moderate,,,,{CCC9EAE6-FEFB-4E13-BD98-57E230013758},Active,0.0192444990956773
+15497,SP2233, ,SP,South Park,South Park,,,,,,,,0.1211524,,,,,,,{29C0856A-4DDA-4672-B639-DF4C07CB5478},Active Trail,0.00192362057632589
+15498,SP2940,Gravel or Paved Trail/Road,SP,South Park,South Park,Gravel or Paved Trail/Road,GY,Gray, , , ,http://apps.alleghenycounty.us/GIS/GRAY.png,2.78581516,,,Easy,Pt_to_Pt,Asphalt,No,{2AFD4C63-B472-439E-86FA-C2C43A567C8D},Active Trail,0.0453744764361795
+15499,SP815,Gravel or Paved Trail/Road,SP,South Park,South Park,Gravel or Paved Trail/Road,GY,Gray,,,,http://apps.alleghenycounty.us/GIS/GRAY.png,0.20825476,,,Easy,Access,Asphalt,No,{83630D95-87DF-4003-B99E-D08167A66E65},Active,0.00356755950049596
