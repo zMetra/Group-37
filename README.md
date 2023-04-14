@@ -1,7 +1,8 @@
 # Group 37 Final Project
 ## G37
 - [Alon Leshem](mailto:all296@pitt.edu)
-- [Name](mailto:address@pitt.edu)
+- [Adam Gimbel](mailto:ajg172@pitt.edu)
+- [Gregory Constantine](mailto:gpc25@pitt.edu)
 - [Name](mailto:address@pitt.edu)
 - [Name](mailto:address@pitt.edu)
 ## Description
