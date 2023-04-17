@@ -14,4 +14,4 @@ links to the datasets used
 - [Trails dataset](https://data.wprdc.org/dataset/allegheny-county-trails-locations)
 - [Water features dataset](https://data.wprdc.org/dataset/city-water-features)
 ## Basic Overview
-A one sentence overview of your repository, meant for someone who is not familiar with the project
+Our project is to find the best neighborhood in Pittsburgh Using various datasets!
