@@ -3,8 +3,6 @@
 - [Alon Leshem](mailto:all296@pitt.edu)
 - [Adam Gimbel](mailto:ajg172@pitt.edu)
 - [Gregory Constantine](mailto:gpc25@pitt.edu)
-- [Name](mailto:address@pitt.edu)
-- [Name](mailto:address@pitt.edu)
 ## Description
 Description
 ## Datasets used
