@@ -2,7 +2,7 @@
 ## G37
 - [Alon Leshem](mailto:all296@pitt.edu) - made all296.ipynb
 - [Adam Gimbel](mailto:ajg172@pitt.edu) - made greenways_notebook-Copy1.ipynb
-- [Gregory Constantine](mailto:gpc25@pitt.edu) - did waterfeatures-notebook-gpc25.ipynb and citypools_notebook.ipynb
+- [Gregory Constantine](mailto:gpc25@pitt.edu) - made waterfeatures-notebook-gpc25.ipynb and citypools_notebook.ipynb
 
 The Final Presentation Notebook is [Final_Project_Presentation.ipynb](Final_Project_Presentation.ipynb)
 ## Description
